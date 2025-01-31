@@ -1,0 +1,1353 @@
+name,salts,packaging_form,quantity,retail_price,cluster_id
+dolo 1gm tablet,paracetamol / acetaminophen(1.0 g),STRIP,10 Tablet(s) in Strip,45.58,4
+dolo 1000mg infusion,paracetamol/acetaminophen 1000mg,bottle,1000,268.0,0
+dolo 1000mg tablet,paracetamol (1000mg),strip,10.0 tablets in 1 strip,45.58,4
+dolo 1000 mg tablet 10s,paracetamol-1000mg,Strip | Tablet,10,45.5,4
+dolo 120 mg suspension 60 ml,paracetamol-120mg,Bottle | Suspension,60,40.0,0
+dolo 120mg suspension 60ml,paracetamol / acetaminophen(120.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,40.32,0
+dolo 120 suspension,paracetamol/acetaminophen 120mg/5ml,bottle,120,34.94,0
+dolo 156mg syp 60ml,paracetamol/acetaminophen 156.25 mg /5ml,Bottle SYRUP,60,51.0,0
+dolo 15625mg suspension,paracetamol (156.25mg/5ml),bottle,60.0 ml in 1 bottle,56.0,0
+dolo 15625 mg syrup 60 ml,paracetamol-156.25mg,Bottle | Syrup,60,56.0,0
+dolo 250mg suspension 60ml,paracetamol / acetaminophen(250.0 mg),BOTTLE,60ml Suspension in Bottle,45.02,0
+dolo 250mg syp 60ml,paracetamol/acetaminophen 250 mg /5ml,Bottle SYRUP,60,45.02,0
+dolo 250 oral suspension,paracetamol (250mg/5ml),bottle,60.0 ml in 1 bottle,45.02,0
+dolo 250 suspension 100 ml,paracetamol-250mg,Bottle | Suspension,100,75.0,0
+dolo 250 suspension 60 ml,paracetamol-250mg,Bottle | Suspension,60,45.0,0
+dolo 500mg strip of 10 tablets,paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,13.58,4
+dolo 500mg strip of 15 tablets,paracetamol / acetaminophen(500.0 mg),STRIP,15 Tablet(s) in Strip,14.95,4
+dolo 500mg tab 1x15,paracetamol/acetaminophen 500 mg,Strip TABLET,15,14.95,4
+dolo 500 tablet,paracetamol 500mg,strip,500,14.95,4
+dolo 500 tablet 10s,paracetamol-500mg,Strip | Tablet,10,10.0,4
+dolo500 tablet 15s,paracetamol-500mg,Strip | Tablet,15,14.5,4
+dolo 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),STRIP,10 Tablet(s) in Strip,22.61,4
+dolo 650mg strip of 15 tablets,paracetamol / acetaminophen(650.0 mg),STRIP,15 Tablet(s) in Strip,33.76,4
+dolo 650 tablet,paracetamol 650mg,strip,650,33.6,4
+dolo650 tablet 15s,paracetamol-650mg,Strip | Tablet,15,33.5,4
+dolo ampoule of 2ml injection,paracetamol / acetaminophen(150.0 mg),AMPOULE,2ml Injection in Ampoule,9.8,2
+dolo bottle of 5ml drops,paracetamol / acetaminophen(100.0 mg),BOTTLE,5ml Oral Drop in Bottle,27.0,0
+dolo cold 325102 mg suspension 60 ml,phenylephrine(10.0 mg) + chlorpheniramine / chlorphenamine(2.0 mg) + paracetamol / acetaminophen(325.0 mg),BOTTLE,60ml Suspension in Bottle,54.45,0
+dolo cold 50 mg capsule sr 10,chlorpheniramine / chlorphenamine(50.0 mg) + pseudoephedrine(50.0 mg) + paracetamol / acetaminophen(50.0 mg),STRIP,10 Capsule(s) in Strip,15.85,4
+dolo cold 500mg30mg10mg tablet,"paracetamol/acetaminophen 500mg,caffeine 30mg,phen",strip,10,35.0,4
+dolo cold adult nasal drops,xylometazoline,BOTTLE,10ml Nasal Drop in Bottle,40.83,3
+dolo cold pead nasal drops,xylometazoline,BOTTLE,10ml Nasal Drop in Bottle,41.0,3
+dolo cold strip of 10 tablets,caffeine(30.0 mg) + phenylephrine(10.0 mg) + chlorpheniramine / chlorphenamine(2.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,35.44,4
+dolo cold syrup 60ml,chlorpheniramine + paracetamol + pseudoephedrine,BOTTLE,60ml Suspension in Bottle,53.55,0
+dolo drops,paracetamol (100mg/ml),bottle,15.0 ml in 1 packet,30.07,0
+dolo g tablets,dicyclomine + mefenamic acid,STRIP,10 Tablet(s) in Strip,30.91,1
+dolo infusion 100ml,paracetamol / acetaminophen(1.0 g),BOTTLE,100ml Infusion in Bottle,75.03,0
+dolo infusion 100 ml,paracetamol-1000mg,Bottle | Infusion,100,331.0,0
+dolo ivg 1 infusion 100 ml,paracetamol-1000mg,Bottle | Infusion,100,401.0,0
+dolo k 50 mg strip of 10 tablets,diclofenac(50.0 mg),STRIP,10 Tablet(s) in Strip,7.5,1
+dolo m tablets,drotaverine + mefenamic acid,STRIP,10 Tablet(s) in Strip,38.1,1
+dolo mf bottle of 60ml suspension,mefenamic acid(100.0 mg/5ml) + paracetamol / acetaminophen(250.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,57.51,0
+dolo mf junior bottle of 60ml suspension,paracetamol / acetaminophen(125.0 mg/5ml) + mefenamic acid(50.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,52.0,0
+dolomf junior oral suspension,mefenamic acid (50mg/5ml) + paracetamol (125mg/5ml),bottle,60.0 ml in 1 bottle,56.5,0
+dolomf junior oral suspension 60 ml,mefenamic acid-50mg + paracetamol-125mg,Bottle | Suspension,60,56.5,0
+dolomf oral suspension,"mefenamic acid 100mg,paracetamol/acetaminophen 250",bottle,100 ml,49.0,0
+dolomf susp 60ml,mefenamic acid-100mg + paracetamol-250mg,Bottle | Suspension,60,63.0,0
+dolo micro labs forte 500 mg tablet 10,paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,14.95,4
+dolo oral drops 15 ml,paracetamol-100mg,Bottle | Oral Drops,15,30.0,0
+dolo pain relief bottle of 35gm spray,diclofenac(1.16 %) + menthol(5.0 %) + methyl salicylate(10.0 %) + linseed oil(3.0 %),BOTTLE,35g Spray in Bottle,83.5,0
+dolo pain relief spray 55 gm,diclofenac-1.16%w/v + linseed oil-3%w/v + menthol-5%w/v + methyl salicylate-10%w/v,Bottle | Spray,55,143.5,0
+dolo plus tablet,diclofenac(50.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,10.0,4
+dolo relieve tablet,diclofenac(50.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,18.0,4
+dolo soft mr 100mg2mg tablet,"nimesulide 100mg,tizanidine 2mg",strip,2,47.0,1
+dolo sp 500mg tablet,paracetamol/acetaminophen 500mg,strip,500,68.75,4
+dolo suspension 60ml,paracetamol / acetaminophen(156.25 mg/5ml),BOTTLE,60ml Suspension in Bottle,51.0,0
+dolo suspension 60 ml,paracetamol-125mg,Bottle | Suspension,60,56.0,0
+dolot tablet,tramadol (37.5mg) + paracetamol (325mg),strip,10 tablets,143.3909250764526,4
+dolot tablet 10s,paracetamol-325mg + tramadol-37.5mg,Strip | Tablet,10,123.0,4
+dolo th 4 tablet,paracetamol (500mg) + thiocolchicoside (4mg),strip,10.0 tablets in 1 strip,189.7,4
+dolo th 4 tablet 10s,paracetamol-500mg + thiocolchicoside-4mg,Strip | Tablet,10,189.5,4
+dolo xtraa tablet 15s,caffeine-50mg + paracetamol-650mg,Strip | Tablet,15,47.0,4
+doloact 25mg injection,diclofenac 25mg,injection,25,6.66,2
+doloact 25mg injection 3ml,diclofenac(25.0 mg),INJECTION,3ml Injection,6.66,2
+doloact 50mg tablet dt,diclofenac 50mg,strip,50,11.26,1
+doloact dt tablet,diclofenac(50.0 mg),STRIP,10 Tablet(s) in Strip,11.26,1
+doloact gel 30gm,diclofenac(1.16 %),TUBE,30g Gel in Tube,51.0,3
+doloact mouth paint,beclomethasone + clotrimazole,BOTTLE,10ml Mouth Paint in Bottle,55.0,3
+doloact mr 250mg465mg500mg tablet,"chlorzoxazone 250mg,diclofenac 46.5mg,paracetamol/",strip,500,40.96,4
+doloact mr 250mg465mg500mg tablet dt,chlorzoxazone (250mg) + diclofenac (46.5mg) + paracetamol (500mg),strip,10.0 tablet dt in 1 strip,40.96,4
+doloact mr dt strip of 10 tablets,chlorzoxazone + diclofenac sodium + paracetamol,STRIP,10 Tablet(s) in Strip,40.0,4
+doloact plus 50mg500mg tablet,diclofenac (50mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,17.1,4
+doloact plus dt strip of 10 tablets,diclofenac sodium + paracetamol,STRIP,10 Tablet(s) in Strip,16.0,4
+doloact plus gel 30gm,diclofenac + linseed oil + menthol + methyl salicylate,TUBE,30g Gel in Tube,14.0,3
+doloage 20mg injection,piroxicam (20mg),injection,20,143.3909250764526,2
+doloage 20mg tablet,piroxicam (20mg),strip,10.0 tablets in 1 strip,32.0,1
+doloage 20mg tablets,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,28.0,1
+doloage injection,piroxicam(40.0 mg),INJECTION,2ml Injection,168.0,2
+doloage p 325mg20mg tablet,paracetamol (325mg) + piroxicam (20mg),strip,10.0 tablets in 1 strip,68.0,4
+doloarmr tablet 10s,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-325mg,Strip | Tablet,10,95.0,4
+doloar sp tab 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,110.0,4
+dolobak 100mg450mg tablet,paracetamol (100mg) + chlormezanone (450mg),strip,10.0 tablets in 1 strip,123.0,4
+dolobak 450 mg100 mg tablet,"paracetamol/acetaminophen 450mg,chlormezanone 100m",strip,100,56.0,4
+dolobak strip of 10 tablets,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,123.75,4
+dolobak tablet,tramadol (37.5mg) + paracetamol (325mg),strip,10 tablets,143.3909250764526,4
+dolobak tablet 10s,paracetamol-325mg + tramadol-37.5mg,Strip | Tablet,10,135.0,4
+doloban 100mg tablet sr,diclofenac (100mg),strip,10.0 tablet sr in 1 strip,38.1,1
+doloban 25mg injection,diclofenac (25mg),injection,3.0 ml in 1 ampoule,10.5,2
+doloban aqua 75mg ampoule of 1ml injection,diclofenac(75.0 mg),AMPOULE,1ml Injection in Ampoule,423.0,2
+doloban aqua 75mg injection,diclofenac 75mg,injection,75,22.0,2
+doloban aqua injection 1ml,diclofenac-75mg,Vial | Injection,1,22.0,2
+doloban injection 3ml,diclofenac(25.0 mg),AMPOULE,3ml Injection in Ampoule,4.57,2
+doloban injection 30ml,diclofenac(25.0 mg),VIAL,30ml Injection in Vial,31.42,2
+dolobanmr 502 mg tablet mr 10,tizanidine(2.0 mg) + diclofenac(50.0 mg),STRIP,10 Tablet(s) in Strip,9.9,1
+doloban plus vet injection,nimesulide + paracetamol,AMPOULE,30ml Injection in Ampoule,93.0,2
+doloban plus vet injection 90ml,nimesulide + paracetamol,AMPOULE,90ml Injection in Ampoule,275.0,2
+dolobans tablet,diclofenac (50mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,62.0,1
+doloban sr 100mg strip of 10 tablets,diclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,38.1,1
+doloban strip of 10 tablets,chlorzoxazone + diclofenac + paracetamol,STRIP,10 Tablet(s) in Strip,40.0,4
+dolobest 100mg tablet,aceclofenac 100mg,strip,100,71.42,1
+dolobest 200mg tablet sr,aceclofenac 200mg,strip,200,26.63,1
+dolobest mr 100mg500mg250mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg,",strip,250,130.0,4
+dolobest mr strip of 10 tablets,aceclofenac(100.0 mg) + chlorzoxazone(250.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,130.0,4
+dolobest mr tablet,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-500mg,Strip | Tablet,10,130.0,4
+dolobest od 200mg tablet,aceclofenac 200mg,strip,200,45.7,1
+dolobest od strip of 10 tablets,aceclofenac(200.0 mg),STRIP,10 Tablet(s) in Strip,45.7,1
+dolobest p 100 mg500 mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,40.4,4
+dolobest p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,29.0,4
+dolobest p tablet 10s,aceclofenac-100mg + paracetamol-500mg,Strip | Tablet,10,40.4,4
+dolobest sp 100mg500mg15mg tablet,aceclofenac (100mg) + paracetamol (500mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,73.5,4
+dolobest sp strip of 10 tablets,aceclofenac + paracetamol + serratiopeptidase,STRIP,10 Tablet(s) in Strip,57.8,4
+dolobest sr 200 mg tablet 10,aceclofenac(200.0 mg),STRIP,10 Tablet(s) in Strip,26.63,1
+dolobest strip of 10 tablets,aceclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,19.9,1
+dolobid 50mg15mg tablet,diclofenac-50mg + serratiopeptidase-15mg,Strip | Tablet,10,70.0,1
+dolobid m oint 30gm,diclofenac + menthol + methyl salicylate,TUBE,30g Ointment in Tube,87.19,3
+dolobrake capsule,"diclofenac 100mg,rabeprazole 20mg",strip,10 tablets,60.5,1
+dolobrake mr 500mg50mg325mg tablet,chlorzoxazone-500mg + diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,85.0,4
+dolobrake sp 50mg325mg15mg tablet,diclofenac (50mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,90.2,4
+doloby plus 100mg500mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,500,143.3909250764526,4
+dolocaf extra tablet,caffeine (50mg) + paracetamol (650mg),strip,10.0 tablets in 1 strip,40.0,4
+dolocaine cream,prilocaine (25mg/gm) + lidocaine (25mg/gm),tube,5.0 gm in 1 tube,196.0,0
+dolocaine cream 15gm,prilocaine(2.5 %) + lidocaine / lignocaine(2.5 %),TUBE,15g Cream in Tube,319.56,3
+dolocaine cream 30 gm,lidocaine-25mg + prilocaine-25mg,Tube | Cream,30,835.0,0
+dolocaine cream 30gm,prilocaine(2.5 %) + lidocaine / lignocaine(2.5 %),TUBE,30g Cream in Tube,708.5,3
+dolocaine cream 5gm,lidocaine-2.5%w/w + prilocaine-2.5%w/w,Tube | Cream,5,127.0,3
+dolocalm 75mg injection,diclofenac (75mg),injection,1.0 ml in 1 vial,14.0,2
+dolocalm forte 50mg500mg tablet,diclofenac (50mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,30.0,4
+dolocalm forte tablets,diclofenac sodium + paracetamol,STRIP,10 Tablet(s) in Strip,30.0,4
+dolocalm gel,diclofenac + linseed oil + menthol + methyl salicylate,TUBE,30g Gel in Tube,90.0,3
+dolocalm injection,diclofenac sodium,INJECTION,1ml Injection,50.88,2
+dolocam 20mg tablet,piroxicam (20mg),strip,10.0 tablets in 1 strip,50.88,1
+dolocam 20 mg tablet 10,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,50.88,1
+dolocam 20mg tablet dt,piroxicam (20mg),strip,25.0 tablet dt in 1 strip,68.8,1
+dolocam dt 20mg tablet,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,33.0,1
+dolocare 1000mg tablet,paracetamol-1000mg,Strip | Tablet,10,50.0,4
+dolocare 20mg tablets,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,7.0,1
+dolocare 500 mg tablet,paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,39.0,4
+dolocare 500mg tablet,paracetamol/acetaminophen 500mg,strip,500,49.31,4
+dolocare injection 2ml,piroxicam,INJECTION,2ml Injection,13.0,2
+dolocef 250mg strip of 10 tablets,cefradine(250.0 mg),STRIP,10 Tablet(s) in Strip,410.0,1
+dolocef 500 mg tablet 10,cefuroxime(500.0 mg),STRIP,10 Tablet(s) in Strip,410.0,1
+dolocel plus tablet,diclofenac-50mg + paracetamol-325mg + serratiopeptidase-10mg,Strip | Tablet,10,80.0,4
+dolocel sp 50mg10mg tablet,diclofenac-50mg + serratiopeptidase-10mg,Strip | Tablet,10,95.2,1
+dolocem 20mg tablet dt,piroxicam-20mg,Strip | Tablet,10,70.0,1
+dolocet 325 mg375 mg tablet,"paracetamol/acetaminophen 325mg,tramadol 37.5mg",strip,375,46.23,4
+dolocet 400mg tablets,paracetamol + tramadol,STRIP,10 Tablet(s) in Strip,45.0,4
+dolocet p 100mg325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,37.52,4
+dolocetp tablet 10s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,10,37.5,4
+dolochek 100mg strip of 10 tablets,aceclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,22.12,1
+dolochek 100mg tablet,aceclofenac 100mg,strip,100,22.12,1
+dolochek 200mg tablet sr,aceclofenac 200mg,strip,200,31.99,1
+dolochek p 100mg500mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,37.0,4
+dolochek p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,76.0,4
+dolochek sr 200mg strip of 10 tablets,aceclofenac(200.0 mg),STRIP,10 Tablet(s) in Strip,267.3,1
+dolocide k 50mg tablet,diclofenac 50mg,strip,50,15.1,1
+dolocide k plus strip of 10 tablets,diclofenac potassium,STRIP,10 Tablet(s) in Strip,143.3909250764526,1
+dolocide k strip of 10 tablets,diclofenac(50.0 mg),STRIP,10 Tablet(s) in Strip,13.5,1
+dolocide kp strip of 10 tablets,diclofenac + paracetamol,STRIP,10 Tablet(s) in Strip,19.8,4
+dolocide kp tablet,"diclofenac 50mg,paracetamol/acetaminophen 650mg",strip,10 tablets,19.8,4
+dolocide mr 250mg tablet,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,128.0,4
+dolocide mr strip of 10 tablets,chlorzoxazone(200.0 mg) + diclofenac(50.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,98.44,4
+dolocide mr tablet,"chlorzoxazone 250mg,diclofenac 50mg,paracetamol/ac",strip,10 tablets,97.0,4
+dolocide plus gel 30gm,diclofenac(1.0 %) + linseed oil(3.0 %) + menthol(5.0 %) + methyl salicylate(10.0 %),TUBE,30g Gel in Tube,66.0,3
+dolocide plus tablet,"chlorzoxazone 250mg,diclofenac 50mg,paracetamol/ac",strip,10 tablets,18.86,4
+dolocip 20mg tablet dt,piroxicam 20mg,strip,20,30.0,1
+dolocip dt 20mg tablet,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,34.5,1
+doloco gel 30gm,diclofenac(1.16 %) + menthol(5.0 %) + methyl salicylate(10.0 %) + linseed oil(3.0 %),TUBE,30g Gel in Tube,90.0,3
+doloco tablets,chlorzoxazone + diclofenac sodium + paracetamol,STRIP,10 Tablet(s) in Strip,49.0,4
+dolocold adult nasal spray,xylometazoline-200mg,Bottle | Nasal Spray,1,57.0,3
+dolocold ds oral suspension,"chlorpheniramine maleate 2mg,paracetamol/acetamino",bottle,100 ml,51.75,0
+dolocold ds suspension 60 ml,chlorpheniramine-2mg + paracetamol-250mg + phenylephrine-5mg,Bottle | Suspension,60,73.0,0
+dolocold ds syrup 60ml,chlorpheniramine maleate(2.0 mg) + phenylephrine(5.0 mg) + paracetamol / acetaminophen(250.0 mg),BOTTLE,60ml Syrup in Bottle,61.45,0
+dolocold junior nasal drops,xylometazoline 0.05% w/v,bottle,100 ml,34.53,3
+dolocold junior nasal drops 10 ml,xylometazoline-0.05%w/v,Bottle | Nasal Drops,10,36.68,3
+dolocold syrup,"chlorpheniramine maleate 1mg,paracetamol/acetamino",bottle,100 ml,38.0,0
+dolocold syrup 60 ml,caffeine-30mg + chlorpheniramine-2mg + paracetamol-325mg + phenylephrine-10mg,Bottle | Syrup,60,58.0,0
+dolocold tablet 10s,caffeine-30mg + chlorpheniramine maleate-2mg + paracetamol-500mg + phenylephrine hydrochloride-10mg,Strip | Tablet,10,38.0,4
+dolocrat 100 mg500 mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,33.0,4
+dolocrat plus tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg,",strip,10 tablets,53.0,4
+dolocrat tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,36.0,4
+dolocuredt tablet,piroxicam (20mg),strip,15.0 tablet dt in 1 strip,150.0,1
+dolocute gel 30 gm,diclofenac-1%w/w + linseed-3%w/w + menthol-1%w/w + salicylic acid-10%w/w,Tube | Gel,30,90.0,3
+dolodart 120mg5ml suspension,paracetamol (120mg/5ml),bottle,60.0 ml in 1 bottle,143.3909250764526,0
+dolodart 120 suspension 60 ml,paracetamol-120mg,Bottle | Suspension,60,40.0,0
+dolodart ds 250mg5ml suspension,paracetamol/acetaminophen 250mg/5ml,bottle,5,37.2,0
+dolodart ds suspension 60ml,paracetamol / acetaminophen(250.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,44.35,0
+dolodart ds suspension 60 ml,paracetamol-250mg,Bottle | Suspension,60,45.0,0
+dolodart suspension 60ml,paracetamol / acetaminophen(120.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,36.29,0
+dolodase injection,diclofenac na,injection,1 vial,21.5,2
+dolodase p 50 mg10 mg tablet,"diclofenac 50mg,serratiopeptidase 10mg",strip,10,58.0,1
+dolodase tablet,diclofenac (na),strip,10.0 tablets in 1 strip,44.0,1
+dolodik 100 mg500 mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg",strip,500,26.43,4
+dolodik s 100 mg500 mg15 mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg,",strip,15,50.37,4
+dolodil injection 2ml,piroxicam(20.0 mg),INJECTION,2ml Injection,143.3909250764526,2
+dolodol 100mg injection,tramadol 100mg,injection,100,23.0,2
+dolodol 50mg capsule,tramadol 50mg,strip,50,38.5,1
+dolodol injection,tramadol,INJECTION,2ml Injection,143.3909250764526,2
+dolodol micro lab 50 mg capsule 10,tramadol(50.0 mg),STRIP,10 Capsule(s) in Strip,49.12,1
+dolodol p tablet,"paracetamol/acetaminophen 325mg,tramadol 37.5mg",strip,10 tablets,9.87,4
+dolodor 20mg tablet,piroxicam 20mg,strip,20,60.0,1
+doloend mr strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),STRIP,10 Tablet(s) in Strip,142.0,1
+doloendmr tablet,aceclofenac-100mg + thiocolchicoside-4mg,Strip | Tablet,10,119.0,1
+doloendmr tablet,aceclofenac (na) + thiocolchicoside (na),strip,10.0 tablets in 1 strip,119.0,1
+doloend p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,27.7,4
+doloendp tablet,aceclofenac (na) + paracetamol (na),strip,10.0 tablets in 1 strip,27.7,4
+doloend sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,89.5,4
+doloendsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,92.0,4
+doloendsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,89.5,4
+dolofabsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,82.0,4
+dolofab tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,46.0,4
+dolofan 20mg injection,piroxicam (20mg),injection,2.0 ml in 1 vial,19.98,2
+dolofan injection,piroxicam,INJECTION,2ml Injection,19.0,2
+dolofen a tablet,ibuprofen (400mg) + paracetamol (325mg) + magnesium trisilicate (100mg),strip,10 tablets,143.3909250764526,4
+dolofen suspension,ibuprofen (100mg) + paracetamol (162.5mg),bottle,50.0 ml in 1 bottle,12.8,0
+dolofenac tablets,diclofenac sodium + paracetamol,STRIP,10 Tablet(s) in Strip,21.0,4
+dolofin injection,ibuprofen na,injection,1 vial,4.3,2
+dolofin mr 250mg50mg500mg tablet,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-500mg,Strip | Tablet,10,59.85,4
+dolofin plus 50 mg500 mg tablet,diclofenac-50mg + paracetamol-500mg,Strip | Tablet,10,14.25,4
+dolofirst 325 mg375 mg tablet,"paracetamol/acetaminophen 325mg,tramadol 37.5mg",strip,375,53.2,4
+dolofirst 375mg325mg tablet,tramadol (37.5mg) + paracetamol (325mg),strip,325,143.3909250764526,4
+dolofirst 650mg tablet,paracetamol (650mg),strip,15.0 tablets in 1 strip,24.0,4
+dolofirst 650 mg tablet 15s,paracetamol-650mg,Strip | Tablet,15,30.5,4
+dolofirst tablet,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,53.2,4
+doloflam gel 30 gm,diclofenac sodium-1% + linseed oil-3% + menthol-5% + methyl salicylate-10%,Tube | Gel,30,70.0,3
+doloflam mr 100mg tablets,nimesulide + tizanidine,STRIP,10 Tablet(s) in Strip,80.0,1
+doloflam plus 100 mg500 mg tablet,nimesulide (100mg) + paracetamol (500mg),strip,500,143.3909250764526,4
+doloflam plus 100mg tablets,nimesulide + paracetamol,STRIP,10 Tablet(s) in Strip,2.0,4
+doloflam tablet,nimesulide (na),strip,10.0 tablets in 1 strip,9.3,1
+doloflam tablets,diclofenac + paracetamol,STRIP,10 Tablet(s) in Strip,17.0,4
+doloflex 100mg500mg250mg tablet mr,aceclofenac (100mg) + paracetamol (500mg) + chlorzoxazone (250mg),strip,10.0 tablet mr in 1 strip,80.0,4
+doloflex gel 30 gm,diclofenac diethylamine-1.16%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,Tube | Gel,30,85.0,3
+doloflex mr strip of 10 tablets,chlorzoxazone(250.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,80.0,4
+doloflexmr tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,10.0 tablets in 1 strip,80.0,4
+doloflexmr tablet 10s,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-325mg,Strip | Tablet,10,80.0,4
+doloflex oral suspension,ibuprofen (100mg) + paracetamol (125mg),bottle,60.0 ml in 1 bottle,37.0,0
+doloflexp oral suspension,aceclofenac (50mg) + paracetamol (125mg),bottle,60.0 ml in 1 bottle,58.0,0
+doloflex p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,11.0,4
+doloflexp tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,42.0,4
+doloflex plus tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,43.0,4
+doloflexsp tablet,"aceclofenac 100mg,paracetamol/acetaminophen 325mg,",strip,10 tablets,85.0,4
+doloflexsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,98.0,4
+doloflex t 100mg4mg tablet,aceclofenac (100mg) + thiocolchicoside (4mg),strip,10.0 tablets in 1 strip,165.0,1
+doloflex tube of 30gm gel,diclofenac(1.16 %w/w) + linseed oil(3.0 %w/w) + menthol(5.0 %w/w) + methyl salicylate(10.0 %w/w),TUBE,30g Gel in Tube,72.0,3
+doloflextz tablet,"aceclofenac 100mg,paracetamol/acetaminophen 325mg,",strip,10 tablets,82.0,4
+doloforce 40mg injection,piroxicam (40mg),injection,2.0 ml in 1 vial,38.96,2
+doloforce ampoule of 2ml injection,piroxicam(20.0 mg),AMPOULE,2ml Injection in Ampoule,34.45,2
+doloforce dt 10mg strip of 10 tablets,piroxicam(10.0 mg),STRIP,10 Tablet(s) in Strip,77.05,1
+doloforce dt 10mg tab 1x10,piroxicam 20 mg,Strip TABLET,10,83.54,1
+doloforce dt 20mg strip of 10 tablets,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,83.54,1
+doloforce dt tablet,piroxicam (20mg),strip,10.0 tablet dt in 1 strip,83.54,1
+doloforce  dt tablet 10s,piroxicam-20mg,Strip | Tablet,10,83.5,1
+doloforce injection 4 x 2 ml,piroxicam-40mg,Box | Injection,4 x 2,141.5,2
+doloforce plus injection,piroxicam(20.0 mg),INJECTION,1ml Injection,32.2,2
+doloforce plus tablet,"paracetamol/acetaminophen 325mg,piroxicam 20mg",strip,10 tablets,35.0,4
+doloforce plus tablet,paracetamol-325mg + piroxicam-20mg,Strip | Tablet,10,42.3,4
+dolofort 100mg injection,tramadol (100mg),injection,100,143.3909250764526,2
+dolofort 50mg injection,tramadol (50mg),injection,50,143.3909250764526,2
+doloforte tablet 10s,paracetamol-500mg,Strip | Tablet,10,41.0,4
+dolofresh 100mg325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,44.0,4
+dolofresh alu strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,50.0,4
+dolofresh mr 100mg325mg250mg tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,10.0 tablets in 1 strip,85.0,4
+dolofresh mr strip of 10 tablets,chlorzoxazone(250.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,85.0,4
+dolofresh oral suspension,aceclofenac (50mg) + paracetamol (125mg),bottle,60.0 ml in 1 bottle,40.0,0
+dolofresh sp 100mg325mg15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,85.0,4
+dolofresh sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,88.0,4
+dolofresh strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,48.0,4
+dolofresh tablet 10s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,10,44.0,4
+dologaba 300mg strip of 10 tablets,gabapentin(300.0 mg),STRIP,10 Tablet(s) in Strip,181.0,1
+dologaba 300mg tablet,gabapentin 300mg,strip,300,114.0,1
+dologel 15 gm,benzalkonium chloride-0.01%w/w + choline salicylate-8.7%w/w + lignocaine hydrochloride-2%w/w,Tube | Mouth Gel,15,109.0,3
+dologel ct gel 10gm,choline salicylate(8.7 %) + lidocaine / lignocaine(2.0 %),TUBE,10g Mouth Gel in Tube,103.0,3
+dologel ct gel 10 gm,benzalkonium chloride-0.01%w/w + choline salicylate-8.7% w/w + lignocaine hydrochloride-2%w/w,Tube | Mouth Gel,10,103.0,3
+dologel ct tube 10gm,benzalkonium chloride 0.01 %w/w + choline salicylate 8.7 %w/w + lignocaine 2 %w/w,Tube GEL,10,103.0,3
+dologel gel 15gm,choline salicylate(8.7 %) + lidocaine / lignocaine(2.0 %),TUBE,15g Mouth Gel in Tube,109.0,3
+dologen plus 325mg20mg tablet,paracetamol (325mg) + piroxicam (20mg),strip,10.0 tablets in 1 strip,125.0,4
+dologen strip of 10 tablets,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,64.0,4
+dologen tablet,tramadol (37.5mg) + paracetamol (325mg),strip,10 tablets,143.3909250764526,4
+dologen tablet 10s,acetaminophen + tramadol,Strip | Tablet,10,78.5,4
+dologen xt 50mg50mg tablet,eperisone (50mg) + diclofenac (50mg),strip,10.0 tablets in 1 strip,200.0,1
+dologen xt strip of 10 tablets,diclofenac sodium + eperisone,STRIP,10 Tablet(s) in Strip,200.0,1
+dologesic gold tablets,diclofenac sodium + paracetamol,STRIP,10 Tablet(s) in Strip,20.0,4
+dologesic sp strip of 10 tablets,diclofenac(50.0 mg) + serratiopeptidase(10.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,90.55,4
+dologesic sp tablet,"diclofenac na,paracetamol/acetaminophen na,serrati",strip,10 tablets,16.25,4
+dologesic strip of 10 tablets,diclofenac(50.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,39.5,4
+dologin 500mg tablet,mefenamic acid (500mg),strip,10.0 tablets in 1 strip,395.58,1
+dologlan 1000mg infusion,paracetamol (1000mg),bottle,100.0 ml in 1 bottle,313.0,0
+dologlan bottle of 100ml infusion,paracetamol / acetaminophen(1.0 g),BOTTLE,100ml Infusion in Bottle,340.0,0
+dolohit 50mg injection,tramadol (50mg),injection,50,143.3909250764526,2
+dolohit p 375mg325mg tablet,tramadol (37.5mg) + paracetamol (325mg),strip,325,143.3909250764526,4
+doloid suspension 60ml,paracetamol + propoxyphene,BOTTLE,60ml Suspension in Bottle,143.3909250764526,0
+doloja aq 75mg injection,diclofenac-75mg,Vial | Injection,1,22.99,2
+dolojoy tablet,paracetamol (650mg) + codeine (30mg),strip,10 tablets,143.3909250764526,4
+dolojoy tablet 10s,codeine-30mg + paracetamol-650mg,Strip | Tablet,10,155.0,4
+dolojust 50mg325mg tablet,"diclofenac 50mg,paracetamol/acetaminophen 325mg",strip,325,19.48,4
+dolojust strip of 10 tablets,diclofenac(50.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,23.52,4
+dolojust tablet 10s,diclofenac-50mg + paracetamol-500mg,Strip | Tablet,10,25.5,4
+dolokam 20mg tablet dt,piroxicam (20mg),strip,10.0 tablet dt in 1 strip,36.5,1
+dolokam dt 20mg tablets,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,31.0,1
+doloket eye drops 5ml,ketorolac(0.5 %),BOTTLE,5ml Eye Drop in Bottle,36.5,0
+doloket ls eye drops 5ml,ketorolac(0.4 %),BOTTLE,5ml Eye Drop in Bottle,40.0,0
+doloketls eye drops 5 ml,ketorolac-0.4%w/v,Bottle | Eye Drops,5,36.5,0
+doloket o eye drops 5ml,ketorolac(4.0 mg) + ofloxacin(3.0 mg),BOTTLE,5ml Eye Drop in Bottle,52.37,0
+dolokind 100mg strip of 10 tablets,aceclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,38.8,1
+dolokind 100mg tablet,aceclofenac (100mg),strip,10.0 tablets in 1 strip,38.8,1
+dolokind aa strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,104.5,4
+dolokind aa tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,114.95,4
+dolokindaa tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,114.5,4
+dolokind aq ampoule of 1ml injection,diclofenac sodium(75.0 mg/ml),AMPOULE,1ml Injection in Ampoule,32.89,2
+dolokind aqua 75mg injection,diclofenac (75mg),injection,1.0 ml in 1 ampoule,36.17,2
+dolokind aqua injection 1s,diclofenac-75mg,Vial | Injection,1,36.0,2
+dolokind eye drops 5ml,carmellose + flurbiprofen,BOTTLE,5ml Eye Drop in Bottle,54.57,0
+dolokind eye drops 5ml,flurbiprofen-0.03mg/5ml + hypromellose-0.25% w/v,Bottle | Eye Drops,5,60.5,0
+dolokind gel 15gm,methylsalicylate(5.0 %) + menthol(5.0 %) + capsaicin(0.025 %) + diclofenac(1.16 %),TUBE,15g Gel in Tube,84.7,3
+dolokind gel 20 gm,capsaicin-0.025%w/w + diclofenac-1%w/w + menthol-5%w/w + methyl salicylate-5%w/w,Tube | Gel,20,93.0,3
+dolokind gel 30gm,methylsalicylate(5.0 %) + menthol(5.0 %) + capsaicin(0.025 %) + diclofenac(1.16 %),TUBE,30g Gel in Tube,39.99,3
+dolokind m tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,10.0 tablets in 1 strip,38.1,4
+dolokind mr strip of 10 tablets,chlorzoxazone(250.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,82.5,4
+dolokindmr tablet,"aceclofenac 100mg, paracetamol 325mg, chlorzoxazon",strip,10 tablets,82.5,4
+dolokindmr tablet 10s,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-325mg,Strip | Tablet,10,82.5,4
+dolokind ortho tablets,aceclofenac + glucosamine + methyl sulfonylmethane,STRIP,10 Tablet(s) in Strip,38.8,1
+dolokind plus strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,75.3,4
+dolokind plus strip of 15 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,15 Tablet(s) in Strip,75.3,4
+dolokind plus tablet,"aceclofenac 100mg,paracetamol/acetaminophen 325mg",strip,10 tablets,75.3,4
+dolokind plus tablet 15s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,15,75.0,4
+dolokind spas 10 mg500 mg tablet,"hyoscine butylbromide 10mg,paracetamol/acetaminoph",strip,500,25.0,4
+dolokind spas h 10 mg tablet 10,hyoscyamine + paracetamol,STRIP,30 Tablet(s) in Strip,33.33,4
+dolokind spas h tablet,"hyoscyamine 10mg,paracetamol/acetaminophen na",strip,10 tablets,33.33,4
+dolokind spas inj 1ml,hyoscine butylbromide 20 mg /ml,Vial INJECTION,1,10.33,2
+dolokind spas injection,butylscopolamine(20.0 mg),AMPOULE,1ml Injection in Ampoule,10.33,2
+dolokind spas injection 2 ml,scopolamine(20.0 mg),INJECTION,2ml Injection,10.99,2
+dolokind spas rf strip of 10 tablets,hyoscine(10.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,25.0,4
+dolokind spas rf tablet,"hyoscine butylbromide 10mg,paracetamol/acetaminoph",strip,10 tablets,45.0,4
+dolokind spas rf tablet 10s,hyoscine butylbromide-10mg + paracetamol-500mg,Strip | Tablet,10,25.0,4
+dolokind spas tab 1x10,hyoscine butylbromide 10 mg+paracetamol/acetaminophen 500 mg,Strip,10,25.0,4
+dolokind spas tablet 10s,hyoscine butylbromide-10mg + paracetamol-500mg,Strip | Tablet,10,27.5,4
+dolokind sr 200mg strip of 10 tablets,aceclofenac(200.0 mg),STRIP,10 Tablet(s) in Strip,69.49,1
+dolokind sr tab 1x10,aceclofenac 200 mg sustained release,Strip TABLET,10,47.48,1
+dolokind  sr tablet,aceclofenac 200mg,strip,10 tablets,47.48,1
+dolokind sr tablet 10s,aceclofenac-200mg,Strip | Tablet,10,69.0,1
+dolokind tablet 10s,aceclofenac-100mg,Strip | Tablet,10,38.5,1
+dolokind tube of 20gm gel,capsaicin(0.025 %w/w) + menthol(5.0 %w/w) + diclofenac sodium(1.0 %w/w) + methyl salicylate(5.0 %w/w),TUBE,20g Gel in Tube,93.17,3
+dolokoff dx syrup 100 ml,dextromethorphan,BOTTLE,100ml Syrup in Bottle,90.0,0
+dolokoffdx syrup 100 ml,dexchlorpheniramine-4mg + dextromethorphan-10mg,Bottle | Syrup,100,82.55,0
+dolokoff syrup 100ml,chlorpheniramine + codeine,BOTTLE,100ml Syrup in Bottle,69.5,0
+dolokoff syrup 60ml,chlorpheniramine + codeine,BOTTLE,60ml Syrup in Bottle,40.88,0
+dololax 100mg tablet,aceclofenac (100mg),strip,10.0 tablets in 1 strip,28.0,1
+dololax tablet,aceclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,9.4,1
+dololsac 50mg capsule dr,diacerein (50mg),strip,50,143.3909250764526,1
+dololsac dr capsules,diacerein,STRIP,10 Capsule(s) in Strip,115.0,1
+dololup 20mg injection 2ml,piroxicam(20.0 mg),INJECTION,2ml Injection,8.0,2
+dololup 20mg tablet dt,piroxicam (20mg),strip,10.0 tablet dt in 1 strip,6.37,1
+dololup dt 20 mg strip of 10 tablets,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,6.37,1
+dolomade sp 100mg325mg15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,99.0,4
+dolomade th 4mg100mg325mg tablet,thiocolchicoside (4mg) + aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,149.0,4
+dolomark ds bottle of 60ml suspension,paracetamol / acetaminophen(250.0 mg),BOTTLE,60ml Suspension in Bottle,39.6,0
+dolomark oral suspension,ibuprofen (100mg) + paracetamol (125mg),bottle,60.0 ml in 1 bottle,34.51,0
+dolomas 100mg325mg250mg tablet mr,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,10.0 tablet mr in 1 strip,74.0,4
+dolomas 200mg tablet sr,aceclofenac (200mg),strip,10.0 tablet sr in 1 strip,52.0,1
+dolomas p 100mg325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,43.0,4
+dolomas sp 100mg325mg10mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (10mg),strip,10.0 tablets in 1 strip,93.0,4
+dolomax 650mg tablet,doxofylline (650mg),strip,10.0 tablets in 1 strip,126.0,1
+dolomec 90 tablet,etoricoxib (90mg),strip,10.0 tablets in 1 strip,114.0,1
+dolomec ace tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,31.5,4
+dolomec ace tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,33.85,4
+dolomec dp 25mg injection,diclofenac 25mg,injection,25,14.4,2
+dolomec mf plus suspension 60ml,mefenamic acid + paracetamol,BOTTLE,60ml Suspension in Bottle,37.0,0
+dolomec mf plus syrup,"mefenamic acid 100mg,paracetamol/acetaminophen 125",bottle,100 ml,37.99,0
+dolomec mf suspension 60ml,mefenamic acid + paracetamol,BOTTLE,60ml Suspension in Bottle,29.11,0
+dolomec mf syrup,mefenamic acid (50mg/5ml) + paracetamol (125mg/5ml),bottle,60.0 ml in 1 bottle,28.35,0
+dolomec mr tablet,etoricoxib (60mg) + thiocolchicoside (4mg),strip,10.0 tablets in 1 strip,212.0,1
+dolomec sp tablet,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,69.8,4
+dolomec sp tablets,aceclofenac + paracetamol + serratiopeptidase,STRIP,10 Tablet(s) in Strip,69.8,4
+dolomec strip of 10 tablets,ibuprofen(400.0 mg) + methionine(50.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,11.25,4
+dolomec suspension,ibuprofen-100mg + paracetamol-162.5mg,Bottle | Suspension,60,20.4,0
+dolomec tablet,"ibuprofen 400mg,methionine 50mg,paracetamol/acetam",strip,10 tablets,8.43,4
+dolomed 100 mg125 mg suspension,ibuprofen (100mg) + paracetamol (125mg),bottle,60.0 ml in 1 bottle,10.96,0
+dolomed 100 mg125 mg syrup,ibuprofen (100mg) + paracetamol (125mg),bottle,50.0 ml in 1 bottle,10.96,0
+dolomed 100mg suspension 60ml,ibuprofen + paracetamol,BOTTLE,60ml Suspension in Bottle,10.96,0
+dolomed 400325 mg strip of 10 tablets,ibuprofen(400.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,14.5,4
+dolomed 400mg325mg tablet,ibuprofen (400mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,14.5,4
+dolomed 600mg tablet,ibuprofen(600.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,15.9,4
+dolomed 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),STRIP,10 Tablet(s) in Strip,14.5,4
+dolomed 650mg strip of 15 tablets,paracetamol / acetaminophen(650.0 mg),STRIP,15 Tablet(s) in Strip,30.8,4
+dolomed 650mg tablet,paracetamol (650mg),strip,15.0 tablets in 1 strip,33.5,4
+dolomed650 tablet 15s,paracetamol-650mg,Strip | Tablet,15,33.5,4
+dolomed d tablet,ibuprofen(400.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,14.5,4
+dolomed gel 30gm,pain relif,TUBE,30g Gel in Tube,31.5,3
+dolomedibu tablet 10s,ibuprofen-400mg + paracetamol-325mg,Strip | Tablet,10,17.0,4
+dolomed mr strip of 10 tablets,chlorzoxazone(250.0 mg) + ibuprofen(400.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,18.15,4
+dolomed mr tablet,ibuprofen (400mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,10.0 tablets in 1 strip,24.05,4
+dolomed mr tablet 10s,chlorzoxazone-250mg + ibuprofen-400mg + paracetamol-325mg,Strip | Tablet,10,24.0,4
+dolomed strip of 10 tablets,ibuprofen(400.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,15.9,4
+dolomed strip of 20 tablets,ibuprofen + paracetamol,STRIP,20 Tablet(s) in Strip,15.08,4
+dolomed t 100mg injection,tramadol(100.0 mg),INJECTION,2ml Injection,15.0,2
+dolomed t 100mg tablet sr,tramadol (100mg),strip,100,143.3909250764526,1
+dolomed t 50mg injection,tramadol(50.0 mg),INJECTION,1ml Injection,12.0,2
+dolomed t sr 100mg tablets,tramadol(50.0 mg),STRIP,10 Tablet(s) in Strip,100.0,1
+dolomedt tablet 10s,paracetamol-325mg + tramadol-37.5mg,Strip | Tablet,10,53.5,4
+dolomed tablet 10s,ibuprofen-400mg + paracetamol-325mg,Strip | Tablet,10,15.5,4
+dolomeg 200mg325mg tablet,diclofenac (200mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,48.0,4
+dolomeg mr 250mg200mg325mg tablet,chlorzoxazone (250mg) + diclofenac (200mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,55.0,4
+dolomeg sp 200mg325mg10mg tablet,diclofenac (200mg) + paracetamol (325mg) + serratiopeptidase (10mg),strip,10.0 tablets in 1 strip,75.0,4
+dolomeg th 4mg200mg tablet,thiocolchicoside (4mg) + diclofenac (200mg),strip,10.0 tablets in 1 strip,182.0,1
+dolomet 500mg tablet,paracetamol (500mg),strip,10.0 tablets in 1 strip,7.0,4
+dolomide tablet 10s,nimesulide-100mg + paracetamol-500mg,Strip | Tablet,10,52.0,4
+dolomine 500mg tablets,paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,74.5,4
+dolomine 650mg tablet,paracetamol / acetaminophen(650.0 mg),STRIP,10 Tablet(s) in Strip,18.0,4
+dolomine 650 mg tablet 10s,paracetamol-650mg,Strip | Tablet,10,18.0,4
+dolomine plus tablets,aceclofenac + paracetamol,STRIP,10 Tablet(s) in Strip,20.79,4
+dolomine tablet,"doxylamine na,vitamin b6 (pyridoxine) na",strip,10 tablets,57.0,1
+dolomol 125 mg syrup 60 ml,paracetamol / acetaminophen(125.0 mg),BOTTLE,60ml Syrup in Bottle,13.75,0
+dolomol 250mg5ml syrup,paracetamol/acetaminophen 250mg/5ml,bottle,5,29.55,0
+dolomol 250mg bottle of 60ml suspension,paracetamol / acetaminophen(250.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,37.71,0
+dolomol 500mg tablet,paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,9.96,4
+dolomonsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,119.0,4
+dolomon th 4 tablet,aceclofenac-100mg + thiocolchicoside-4mg,Strip | Tablet,10,175.0,1
+dolomor cold ds suspension 60 ml,chlorpheniramine-2mg + paracetamol-250mg + phenylephrine-5mg,Bottle | Oral Suspension,60,90.0,0
+dolomor cold susension 60 ml,chlorpheniramine-1mg + paracetamol-125mg + phenylephrine-2.5mg,Bottle | Suspension,60,75.0,0
+dolomor gel 30 gm,diclofenac-1%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,Tube | Gel,30,99.0,3
+dolomor gel 50 gm,diclofenac-1%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,Tube | Gel,50,170.0,3
+dolomor mr tablet 10s,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,91.0,4
+dolomorp tablet 10s,diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,50.0,4
+dolomor plus tablet 10s,caffeine-30mg + diphenhydramine-25mg + paracetamol-325mg + phenylephrine-5mg,Strip | Tablet,10,69.0,4
+dolomorsp tablet 10s,diclofenac-50mg + paracetamol-325mg + serratiopeptidase-10mg,Strip | Tablet,10,81.0,4
+dolomort tablet 10s,diclofenac-50mg + tolperisone-150mg,Strip | Tablet,10,149.0,1
+dolona injection,diclofenac(75.0 mg),INJECTION,3ml Injection,5.16,2
+dolona p tablets,diclofenac potassium + paracetamol,STRIP,10 Tablet(s) in Strip,104.0,4
+dolonac gel 30 gm,diclofenac sodium-1%w/w + linseed oil-3%w/w%methyl salicylate + menthol-5%w/w,Tube | Gel,30,149.5,3
+dolonacp tablet,diclofenac (50mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,45.0,4
+dolonac pc tablet,chlorzoxazone-500mg + diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,52.0,4
+dolonar 20mg tablet dt,piroxicam-20mg,Strip | Tablet,10,47.0,1
+dolonase 50 mg10 mg tablet,diclofenac (50mg) + serratiopeptidase (10mg),strip,10.0 tablets in 1 strip,53.93,1
+dolonase a tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,30.75,4
+dolonase a tablet 10,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,35.0,4
+dolonase sp tablet 10,diclofenac(50.0 mg) + serratiopeptidase(10.0 mg),STRIP,10 Tablet(s) in Strip,82.0,1
+dolonase strip of 10 tablets,diclofenac(50.0 mg) + serratiopeptidase(10.0 mg),STRIP,10 Tablet(s) in Strip,64.0,1
+dolonase tablet 10s,diclofenac-50mg + serratiopeptidase-10mg,Strip | Tablet,10,64.0,1
+dolonat tablet,tramadol (37.5mg) + paracetamol (325mg),strip,10 tablets,143.3909250764526,4
+dolonat tablet,paracetamol-325mg + tramadol-37.5mg,Strip | Tablet,10,53.0,4
+dolonek excel gel,benzyl alcohol + diclofenac + menthol + methyl salicylate,TUBE,30g Gel in Tube,60.0,3
+doloneuron 100mg strip of 10 tablets,vitamin b12 / mecobalamin / cynocobalamin / methylcobalamin(500.0 mcg) + gabapentin(100.0 mg),STRIP,10 Tablet(s) in Strip,140.0,1
+doloneuron 100mg strip of 15 tablets,vitamin b12 / mecobalamin / cynocobalamin / methylcobalamin(500.0 mcg) + gabapentin(100.0 mg),STRIP,15 Tablet(s) in Strip,153.11,1
+doloneuron 100 tablet,gabapentin (100mg) + methylcobalamin (500mcg),strip,15.0 tablets in 1 strip,168.0,1
+doloneuron 100 tablet 15s,gabapentin-100mg + methylcobalamin-500mcg,Strip | Tablet,15,168.0,1
+doloneuron 300mg strip of 10 tablets,gabapentin(300.0 mg) + vitamin b12 / mecobalamin / cynocobalamin / methylcobalamin(500.0 mcg),STRIP,10 Tablet(s) in Strip,190.32,1
+doloneuron 300 tablet,gabapentin (300mg) + methylcobalamin (500mcg),strip,10.0 tablets in 1 strip,205.5,1
+doloneuron 300 tablet 10s,gabapentin-300mg + methylcobalamin-500mcg,Strip | Tablet,10,205.5,1
+doloneuron nt 10010mg strip of 10 tablets,nortriptyline(10.0 mg) + gabapentin(100.0 mg),STRIP,10 Tablet(s) in Strip,79.0,1
+doloneuron nt 100 tablet,gabapentin (100mg) + nortriptyline (10mg),strip,10.0 tablets in 1 strip,95.0,1
+doloneuron nt 100 tablet 10s,gabapentin-100mg + nortriptyline-10mg,Strip | Tablet,10,95.0,1
+doloneuronnt 200 tablet,gabapentin (200mg) + nortriptyline (10mg),strip,10.0 tablets in 1 strip,174.5,1
+doloneuronnt 200 tablet 10s,gabapentin-200mg + nortriptyline-10mg,Strip | Tablet,10,174.5,1
+doloneuron nt 400mg strip of 10 tablets,gabapentin(400.0 mg) + nortriptyline(10.0 mg),STRIP,10 Tablet(s) in Strip,237.0,1
+doloneuronnt capsule 10s,gabapentin-400mg + nortriptyline-10mg,Strip | Capsule,10,284.5,1
+doloneuron nt tablet,"gabapentin 400mg,nortriptyline 10mg",strip,10 tablets,86.5,1
+doloneuron pg 75mg capsule,vitamin b12 / mecobalamin / cynocobalamin / methylcobalamin(750.0 mcg) + pregabalin(75.0 mg),STRIP,10 Capsule(s) in Strip,79.0,1
+doloneuron pg 75mg capsule,"methylcobalamin/mecobalamin 750mcg,pregabalin 75mg",strip,75,79.0,1
+dolonex 10mg capsule,piroxicam 10mg,strip,10,69.77,1
+dolonex 20mg ampoule of 1ml injection,piroxicam(20.0 mg),AMPOULE,1ml Injection in Ampoule,31.85,2
+dolonex 20mg capsule,piroxicam 20mg,strip,20,196.22,1
+dolonex 20mg strip of 10 capsules,piroxicam(20.0 mg),STRIP,10 Capsule(s) in Strip,189.47,1
+dolonex 40 mg im injection 5 x 2 ml,piroxicam-40mg,Box | Injection,5 x 2,320.0,2
+dolonex 40 mg injection,piroxicam 40mg,injection,40,165.0,2
+dolonex 5mg gel 15gm,piroxicam(5.0 mg),TUBE,15g Gel in Tube,79.75,3
+dolonex dt 10mg strip of 15 tablets,piroxicam(10.0 mg),STRIP,15 Tablet(s) in Strip,178.4,1
+dolonex dt 20mg tab 1x15,piroxicam 20 mg,Strip,15,237.0,1
+dolonex dt 20mg tablet,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,215.82,1
+dolonex dt 20mg tablet,piroxicam 20mg,strip,20,237.0,1
+dolonex dt 20 mg tablet 10s,piroxicam-20mg,Strip | Tablet,10,215.5,1
+dolonex dt 20 mg tablet 15s,piroxicam-20mg,Strip | Tablet,15,237.0,1
+dolonex dt 20 strip of 15 tablets,piroxicam(20.0 mg),STRIP,15 Tablet(s) in Strip,237.0,1
+dolonex e 120 mg strip of 15 tablets,etoricoxib(120.0 mg),STRIP,15 Tablet(s) in Strip,306.87,1
+dolonex e 120mg tablet,etoricoxib (120mg),strip,15.0 tablets in 1 strip,306.87,1
+dolonex e 120 mg tablet 15s,etoricoxib-120mg,Strip | Tablet,15,306.5,1
+dolonex e 60mg strip of 15 tablets,etoricoxib(60.0 mg),STRIP,15 Tablet(s) in Strip,211.18,1
+dolonex e 60mg tablet,etoricoxib (60mg),strip,15.0 tablets in 1 strip,211.18,1
+dolonex e 60 mg tablet 15s,etoricoxib-60mg,Strip | Tablet,15,211.0,1
+dolonex e 90mg strip of 15 tablets,etoricoxib(90.0 mg),STRIP,15 Tablet(s) in Strip,237.58,1
+dolonex e 90mg tablet,etoricoxib (90mg),strip,15.0 tablets in 1 strip,143.3909250764526,1
+dolonex e 90 tablet 15s,etoricoxib-90mg,Strip | Tablet,15,237.5,1
+dolonex gel 15gm,piroxicam 5 mg,Tube,15,70.32,3
+dolonex gel 15 gm,piroxicam-5mg,Tube | Gel,15,79.5,3
+dolonex im 20 mg injection 1 ml,piroxicam-20mg,Ampoule | Injection,1,35.0,2
+dolonex im ampoule of 2ml solution for injection,piroxicam(40.0 mg),AMPOULE,2ml Solution For Injection in Ampoule,58.42,2
+dolonex im ampoule of 2ml solution for injection pack of 5,piroxicam(40.0 mg),AMPOULE,2ml Solution For Injection in Ampoule,86.43,2
+dolonex im injection,piroxicam 20mg,injection,1 vial,31.85,2
+dolonex injection 2ml,piroxicam 20mg/ml,injection,2,53.12,2
+dolonex rapid 20mg tablet,piroxicam 20mg,strip,20,123.78,1
+dolonex rapid 20mg tablets,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,136.15,1
+dolonex rapid 20 tablet 10s,piroxicam-20mg,Strip | Tablet,10,136.15,1
+doloni 75mg injection,diclofenac (75mg),injection,1.0 Injection in 1 ampoule,10.0,2
+doloni ampoule of 3ml injection,diclofenac sodium(75.0 mg),AMPOULE,3ml Injection in Ampoule,4.0,2
+dolonice 25mg injection,diclofenac 25mg/ml,injection,25,7.9,2
+dolonide 100mg tablet,nimesulide 100mg,strip,100,30.0,1
+dolonik 20mg tablet dt,piroxicam (20mg),strip,10.0 tablet dt in 1 strip,46.0,1
+dolonik 40mg injection,piroxicam-40mg,Vial | Injection,2,31.0,2
+dolonil 50mg capsules,diacerein(50.0 mg),STRIP,10 Capsule(s) in Strip,40.0,1
+dolonim 100mg capsule,nimesulide 100mg,strip,100,38.5,1
+dolonim 200mg capsule sr,nimesulide 200mg,strip,200,39.0,1
+dolonim 50mg syrup,nimesulide (50mg),bottle,60.0 ml in 1 bottle,15.0,0
+dolonim active gel,aconitum napellus dh20 2. arsenicum album dh18 3. asafoetida dh20 4. calcarea carbonica dh16 5. conium maculatum . ipecacuanha dh13 7. phosphoru,TUBE,30g Gel in Tube,62.0,3
+dolonim dt 100mg strip of 15 tablets,nimesulide(100.0 mg),STRIP,15 Tablet(s) in Strip,45.87,1
+dolonim gold 100500 mg tablet 10,nimesulide(100.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,37.0,4
+dolonim mr 100mg2mg tablet,nimesulide (100mg) + tizanidine (2mg),strip,2,143.3909250764526,1
+dolonim p 100mg500mg tablet,nimesulide (100mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,25.0,4
+dolonim tablet,nimesulide na,strip,10 tablets,45.87,1
+dolonim tablets,nimesulide + paracetamol,STRIP,10 Tablet(s) in Strip,32.0,4
+dolonip 20mg injection,piroxicam (20mg),injection,2.0 ml in 1 vial,28.4,2
+dolonip 20mg tablet,piroxicam (20mg),strip,10.0 tablets in 1 strip,49.4,1
+dolonip 500mg tablet,paracetamol/acetaminophen 500mg,strip,500,45.0,4
+dolonip tablets,paracetamol + tramadol,STRIP,10 Tablet(s) in Strip,45.0,4
+dolonismr tablet 10s,chlorzoxazone-500mg + diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,165.0,4
+dolonix mf oral suspension,mefenamic acid (100mg) + paracetamol (250mg),bottle,60.0 ml in 1 bottle,43.9,0
+dolono 40mg injection,piroxicam (40mg),injection,2.0 ml in 1 vial,45.0,2
+dolonol tablet,caffeine-25mg + paracetamol-325mg,Strip | Tablet,10,34.3,4
+dolonovasp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,90.0,4
+dolonx cd tablet,piroxicam na,strip,10 tablets,58.21,1
+dolop plus 325mg375mg tablet,"paracetamol/acetaminophen 325mg,tramadol 37.5mg",strip,375,9.52,4
+dolop plus 375mg325mg tablet,tramadol (37.5mg) + paracetamol (325mg),strip,325,143.3909250764526,4
+dolopac 50 mg500 mg tablet,diclofenac (50mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,33.75,4
+dolopac mr 250mg50mg500mg tablet,chlorzoxazone (250mg) + diclofenac (50mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,35.0,4
+dolopac sp 5010 mg tablet 10,diclofenac(50.0 mg) + serratiopeptidase(10.0 mg),STRIP,10 Tablet(s) in Strip,59.0,1
+dolopac sp 50 mg10 mg tablet,diclofenac (50mg) + serratiopeptidase (10mg),strip,10.0 tablets in 1 strip,60.0,1
+dolopar 120 oral suspension 60 ml,paracetamol-120mg,Bottle | Oral Suspension,60,40.0,0
+dolopar 125mg suspension 60ml,paracetamol / acetaminophen(125.0 mg),BOTTLE,60ml Suspension in Bottle,22.85,0
+dolopar 125 mg syrup 60 ml,paracetamol-125mg,Bottle | Syrup,60,23.0,0
+dolopar 125 oral suspension,paracetamol/acetaminophen 125mg/5ml,bottle,125,22.18,0
+dolopar 15625mg syrup 60ml,paracetamol,BOTTLE,60ml Syrup in Bottle,33.0,0
+dolopar 250mg suspension 60ml,paracetamol / acetaminophen(250.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,45.02,0
+dolopar 250 suspension,paracetamol (250mg/5ml),bottle,100.0 ml in 1 bottle,143.3909250764526,0
+dolopar250 suspension 100 ml,paracetamol-250mg,Bottle | Suspension,100,75.0,0
+dolopar250 suspension 60 ml,paracetamol-250mg,Bottle | Suspension,60,45.0,0
+dolopar 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),STRIP,10 Tablet(s) in Strip,32.42,4
+dolopar 650mg strip of 15 tablets,paracetamol / acetaminophen(650.0 mg),STRIP,15 Tablet(s) in Strip,30.07,4
+dolopar 650 tablet,paracetamol (650mg),strip,15.0 tablets in 1 strip,33.6,4
+dolopar650 tablet 15s,paracetamol-650mg,Strip | Tablet,15,33.5,4
+dolopar cc tablet,"paracetamol na, caffeine na, phenylephrine na",strip,10 tablets,20.17,4
+dolopar cc tablets,caffeine(30.0 mg) + phenylephrine(10.0 mg) + chlorpheniramine / chlorphenamine(2.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,20.17,4
+dolopar drops,paracetamol/acetaminophen 100mg/ml,bottle,100 ml,33.5,0
+dolopar drops 15 ml,paracetamol-100mg,Bottle | Oral Drops,15,30.0,0
+dolopar gel,diclofenac(1.16 %) + menthol(5.0 %) + methyl salicylate(10.0 %) + linseed oil(3.0 %),TUBE,30g Gel in Tube,104.0,3
+dolopar gel 30 gm,capsaicin-0.025%w/w + diclofenac sodium-1%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,Tube | Gel,30,104.0,3
+dolopar m ds suspension,mefenamic acid (100mg/5ml) + paracetamol (250mg/5ml),bottle,60.0 ml in 1 bottle,63.0,0
+dolopar m suspension,mefenamic acid (50mg/5ml) + paracetamol (125mg/5ml),bottle,60.0 ml in 1 bottle,56.5,0
+dolopar m suspension 60ml,paracetamol / acetaminophen(125.0 mg/5ml) + mefenamic acid(50.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,55.65,0
+dolopar m suspension 60 ml,mefenamic acid-50mg + paracetamol-125mg,Bottle | Suspension,60,56.5,0
+dolopar mds suspension 60ml,mefenamic acid(100.0 mg/5ml) + paracetamol / acetaminophen(250.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,53.0,0
+doloparmds suspension 60ml,mefenamic acid-100mg + paracetamol-250mg,Bottle | Suspension,60,63.0,0
+dolopar ointment 30 gm,menthol(5.0 %) + methyl salicylate(10.0 %) + capsaicin(0.025 %) + linseed oil(1.0 %) + diclofenac(1.16 %),TUBE,30g Ointment in Tube,76.18,3
+dolopar oral suspension,paracetamol (120mg/5ml),bottle,60.0 ml in 1 bottle,40.32,0
+dolopar plus 10 mg capsule 10,caffeine + paracetamol,STRIP,10 Capsule(s) in Strip,26.66,4
+dolopar plus capsule,"caffeine na,paracetamol/acetaminophen 10mg",strip,10 tablets,26.66,4
+dolopar strip of 10 tablets,caffeine(25.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,53.0,4
+dolopar strip of 15 tablets,caffeine(25.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,15 Tablet(s) in Strip,58.0,4
+dolopar tablet,"paracetamol 500mg, caffeine 25mg",strip,10 tablets,49.0,4
+dolopar tablet 10s,caffeine-25mg + paracetamol-500mg,Strip | Tablet,10,32.5,4
+dolopar tablet 15s,caffeine-25mg + paracetamol-500mg,Strip | Tablet,15,58.0,4
+dolopax d capsule,diclofenac (50mg) + paracetamol (250mg) + dextropropoxyphene (32.5mg),strip,10 tablets,143.3909250764526,4
+dolopax d capsules,dextropropoxyphene + diclofenac + paracetamol,STRIP,10 Capsule(s) in Strip,16.0,4
+dolopee gel 10gm,diclofenac + linseed oil + menthol + methyl salicylate,TUBE,10g Gel in Tube,4.26,3
+dolopee gel 30gm,diclofenac + linseed oil + menthol + methyl salicylate,TUBE,30g Gel in Tube,48.0,3
+dolopee tablet,diclofenac (50mg) + paracetamol (325mg) + chlorpheniramine maleate (4mg) + magnesium trisilicate (100mg),strip,10 tablets,143.3909250764526,4
+dolopee tablets,chlorpheniramine + diclofenac sodium + magnesium trisilicate + paracetamol,STRIP,10 Tablet(s) in Strip,4.26,4
+dolopent 30mg injection,pentazocine (30mg),injection,30,143.3909250764526,2
+dolopent injection 1 ml,pentazocine-30mg,Vial | Injection,1,30.0,2
+dolophob gel,heparin(0.01 mg) + diclofenac(200.0 iu),TUBE,20g Gel in Tube,459.0,3
+dolopic dt tablets,piroxicam,STRIP,10 Tablet(s) in Strip,32.5,1
+dolopir 20mg injection,piroxicam (20mg),injection,20,143.3909250764526,2
+dolopir injection,piroxicam(20.0 mg),INJECTION,2ml Injection,26.0,2
+dolopir md 20mg tablets,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,62.0,1
+dolopir md tablet,piroxicam (20mg),strip,10.0 tablet md in 1 strip,32.0,1
+doloplan 20mg tablet,duloxetine (20mg),strip,10.0 tablets in 1 strip,48.55,1
+doloplus 50mg325mg tablet,diclofenac (50mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,10.0,4
+dolopolo 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),STRIP,10 Tablet(s) in Strip,22.84,4
+dolopolo 650mg tablet,paracetamol 650mg,strip,650,17.9,4
+dolopolo 650 tablet 10s,paracetamol-650mg,Strip | Tablet,10,224.0,4
+dolopot mr tablet,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-500mg,Strip | Tablet,10,38.0,4
+dolopred eye drop 10ml,prednisolon(1.0 %),BOTTLE,10ml Eye Drop in Bottle,34.16,0
+doloprex 20mg injection,piroxicam-20mg,Vial | Injection,2,25.0,2
+dolopyrin250 suspension 60 ml,paracetamol-250mg,Bottle | Suspension,60,45.0,0
+doloqueen 100mg500mg tablet,nimesulide (100mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,15.0,4
+doloqueen a 100mg500mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,37.0,4
+doloquik 500mg tablets,paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,9.52,4
+doloquik suspension 60ml,paracetamol / acetaminophen(250.0 mg),BOTTLE,60ml Suspension in Bottle,13.75,0
+doloquik syrup,paracetamol/acetaminophen 250mg/5ml,bottle,100 ml,28.0,0
+doloquit 30gm ointment,diclofenac-1.16% w/w,Tube | Ointment,30,70.0,3
+doloral 100mg15mg tablet,"aceclofenac 100mg,serratiopeptidase 15mg",strip,15,55.0,1
+doloral 25mg injection 1ml,aceclofenac,INJECTION,1ml Injection,143.3909250764526,2
+doloral p 100 mg650 mg tablet,aceclofenac (100mg) + paracetamol (650mg),strip,10.0 tablets in 1 strip,38.7,4
+doloral p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,60.0,4
+doloral p tablet,"aceclofenac 100mg,paracetamol/acetaminophen 650mg",strip,10 tablets,35.2,4
+doloral p tablet 10s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,10,66.0,4
+doloral sp 100mg325mg15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,106.0,4
+doloralsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,106.0,4
+doloral tablet,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg),STRIP,10 Tablet(s) in Strip,55.0,1
+dolorap tablet 10s,aceclofenac-100mg + paracetamol-500mg,Strip | Tablet,10,55.0,4
+dolorap tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,25.0,4
+dolorasep tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,90.0,4
+dolorel 50mg325mg tablet,diclofenac (50mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,25.0,4
+dolorest 375mg325mg tablet,tramadol (37.5mg) + paracetamol (325mg),strip,325,143.3909250764526,4
+doloretard 100mg325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,48.0,4
+doloretard tablet 15s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,15,56.0,4
+dolorgesic mr 100mg325mg250mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 325mg,",strip,250,85.0,4
+dolorgesic p 100mg325mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 325mg",strip,325,54.0,4
+dolorgesicp tablet 10s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,10,56.0,4
+dolorgesic sp 100mg325mg15mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 325mg,",strip,15,85.0,4
+dolorgesicsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,94.0,4
+dolorid 100mg500mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg",strip,500,36.0,4
+dolorid 50mg325mg tablet,diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,38.0,4
+dolorid mr 250mg50mg325mg tablet,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,63.0,4
+doloride th 4 strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),STRIP,10 Tablet(s) in Strip,154.0,1
+dolorideth8 tablet 10s,aceclofenac-100mg + thiocolchicoside-8mg,Strip | Tablet,10,247.5,1
+dolorin 50mg10mg650mg tablet,caffeine (50mg) + domperidone (10mg) + paracetamol (650mg),strip,650,143.3909250764526,4
+dolorin suspension 60ml,paracetamol,BOTTLE,60ml Suspension in Bottle,33.5,0
+dolorin tablet,"caffeine 50mg, domperidone 10mg, paracetamol/aceta",strip,10 tablets,54.0,4
+dolorin tablets,caffeine + domperidone + paracetamol,STRIP,10 Tablet(s) in Strip,49.5,4
+doloriso oral suspension sugar free,"sucralfate 1gm,oxetacaine/oxethazaine 10mg",bottle,100 ml,180.0,0
+doloroff 125mg tablet,rofecoxib (12.5mg),strip,125,143.3909250764526,1
+doloroff 125mg tablets,rofecoxib(12.5 mg),STRIP,10 Tablet(s) in Strip,12.0,1
+doloroff 25mg tablet,rofecoxib (25mg),strip,25,143.3909250764526,1
+doloroff 25mg tablets,rofecoxib(25.0 mg),STRIP,10 Tablet(s) in Strip,27.0,1
+doloroff 50mg tablet,rofecoxib 50mg,strip,50,48.2,1
+doloroff 50mg tablets,rofecoxib(50.0 mg),STRIP,10 Tablet(s) in Strip,489.0,1
+doloroff ap tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,333.0,4
+doloroff asp 100 mg500 mg15 mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg,",strip,15,47.48,4
+doloroff asp 100mg500mg15mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg,",strip,15,55.0,4
+doloroff asp tablets,aceclofenac + paracetamol + serratiopeptidase,STRIP,10 Tablet(s) in Strip,48.0,4
+doloron gel 10gm,diclofenac + linseed oil + menthol + methyl salicylate,TUBE,10g Gel in Tube,14.0,3
+doloron gel 30gm,diclofenac + linseed oil + menthol + methyl salicylate,TUBE,30g Gel in Tube,75.0,3
+doloron injection,diclofenac(75.0 mg),INJECTION,3ml Injection,143.3909250764526,2
+doloron p 50 mg500 mg tablet,diclofenac (50mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,5.75,4
+doloron p tablets,diclofenac sodium + paracetamol,STRIP,10 Tablet(s) in Strip,5.75,4
+dolorox 20mg tablet,piroxicam 20mg,strip,20,30.0,1
+dolorub active gel,diclofenac + linseed oil + menthol + methyl salicylate,TUBE,30g Gel in Tube,67.5,3
+dolorylmr tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,10 tablets,143.3909250764526,4
+dolorylp tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg",strip,10 tablets,31.9,4
+dolosac 75mg injection,diclofenac sodium,INJECTION,3ml Injection,12.0,2
+dolosac gel,diclofenac + linseed oil + menthol + methyl salicylate,TUBE,30g Gel in Tube,82.5,3
+dolosacp 25mg75mg injection,diclofenac (25mg) + paracetamol (75mg),injection,75,143.3909250764526,2
+dolosac p injection,piroxicam,INJECTION,2ml Injection,19.9,2
+dolosacpx 20mg injection,piroxicam (20mg),injection,20,143.3909250764526,2
+dolosacpx 20mg tablet dt,piroxicam-20mg,Strip | Tablet,10,49.9,1
+dolosac px dt tablets,piroxicam,STRIP,10 Tablet(s) in Strip,49.9,1
+dolosac px injection,piroxicam,INJECTION,2ml Injection,23.0,2
+dolosac tablets,chlorzoxazone + diclofenac potassium + paracetamol,STRIP,10 Tablet(s) in Strip,4.0,4
+dolosactr 50mg injection,tramadol (50mg),injection,50,143.3909250764526,2
+dolosac tr injection,tramadol,INJECTION,2ml Injection,143.3909250764526,2
+dolosactrp 325mg375mg tablet,"paracetamol/acetaminophen 325mg,tramadol 37.5mg",strip,375,50.0,4
+dolosactrp 375mg325mg tablet,tramadol (37.5mg) + paracetamol (325mg),strip,325,143.3909250764526,4
+dolosac trp tablets,paracetamol + tramadol,STRIP,10 Tablet(s) in Strip,50.0,4
+dolosafe 375mg325mg tablet,tramadol (37.5mg) + paracetamol (325mg),strip,325,143.3909250764526,4
+dolosafe d tablet,tramadol (37.5mg) + paracetamol (325mg),strip,10 tablets,143.3909250764526,4
+dolosafe d tablets,tramadol(37.5 mg) + domperidone(10.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,104.5,4
+dolosafe tablet,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,43.45,4
+dolosafe tablet 10s,paracetamol-325mg + tramadol-37.5mg,Strip | Tablet,10,162.0,4
+dolosaid p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,59.0,4
+dolosaid sp strip of 10 tablets,serratiopeptidase(10.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,102.0,4
+dolosaid tp 4mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,185.0,4
+dolosaid tp 8mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(8.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,235.0,4
+dolosal gel 30 gm,aceclofenac-1.5%w/w + capsaicin-0.01%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,Tube | Gel,30,110.0,3
+dolosal injection,tramadol,INJECTION,2ml Injection,27.0,2
+dolosal mr strip of 10 tablets,gloria superba(8.0 mg) + boswelia serrata(400.0 mg) + curcuma longa(25.0 mg),STRIP,10 Tablet(s) in Strip,295.0,1
+dolosal p 375mg325mg tablet,tramadol (37.5mg) + paracetamol (325mg),strip,325,143.3909250764526,4
+dolosal p tablets,paracetamol + tramadol,STRIP,10 Tablet(s) in Strip,55.0,4
+dolosan 400mg325mg tablet,"ibuprofen 400mg,paracetamol/acetaminophen 325mg",strip,325,8.7,4
+dolosant p bottle of 60ml suspension,aceclofenac(100.0 mg) + paracetamol / acetaminophen(125.0 mg),BOTTLE,60ml Suspension in Bottle,52.0,0
+dolosant p suspension,"aceclofenac 100mg/5ml,paracetamol/acetaminophen 12",bottle,100 ml,35.5,0
+dolosap tablet,"aceclofenac 100mg,paracetamol/acetaminophen 325mg,",strip,10 tablets,100.0,4
+dolosap tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,100.0,4
+doloscan 50mg tablet,tapentadol (50mg),strip,50,143.3909250764526,1
+doloscan50 tablet 10s,tapentadol-50mg,Strip | Tablet,10,180.0,1
+dolosec sp 100mg500mg15mg tablet,aceclofenac (100mg) + paracetamol (500mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,60.0,4
+dolosec tablet,"domperidone 10mg,paracetamol/acetaminophen 325mg,t",strip,10 tablets,80.0,4
+dolosen 650mg tablet,paracetamol (650mg),strip,10.0 tablets in 1 strip,16.0,4
+dolosen p 50mg325mg tablet,diclofenac (50mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,36.0,4
+doloser ap 100mg325mg15mg tablet,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,79.0,4
+doloserch 100mg375mg tablet,nimesulide (100mg) + paracetamol (375mg),strip,375,143.3909250764526,4
+doloserch mf oral suspension,mefenamic acid (50mg) + paracetamol (125mg),bottle,100 ml,143.3909250764526,0
+doloserch mf syrup 60ml,mefenamic acid + paracetamol,BOTTLE,60ml Syrup in Bottle,49.0,0
+doloserch tablets,nimesulide + paracetamol,STRIP,10 Tablet(s) in Strip,38.0,4
+doloset 20mg tablet dt,piroxicam-20mg,Strip | Tablet,10,35.0,1
+doloset injection,tramadol (50mg),injection,1 vial,143.3909250764526,2
+dolosetsr tablet,tramadol 100mg,strip,10 tablets,78.0,1
+dolosic mr 100mg325mg250mg tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,10.0 tablets in 1 strip,88.0,4
+dolosic p 100mg325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,38.0,4
+dolosic p oral suspension,aceclofenac (50mg) + paracetamol (125mg),bottle,60.0 ml in 1 bottle,50.0,0
+dolosic sp 100mg325mg15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,91.0,4
+dolosig gel 30 gm,diclofenac-1.16%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,Tube | Gel,30,105.0,3
+dolosiglp tablet,"lornoxicam 8mg,paracetamol/acetaminophen 325mg",strip,10 tablets,100.0,4
+dolosig mr 100mg4mg tablet,aceclofenac (100mg) + thiocolchicoside (4mg),strip,10.0 tablets in 1 strip,205.36,1
+dolosig sp 100mg325mg15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,85.0,4
+dolosig sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,100.0,4
+dolosmilerb capsule 10s,aceclofenac-200mg + rabeprazole-20mg,Strip | Capsule,10,115.0,1
+dolosmile rb tablet,"aceclofenac 200mg,rabeprazole 20mg",strip,10 tablets,86.0,1
+dolosmile sp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,69.0,4
+dolospa oral suspension,dicyclomine (10mg) + simethicone (40mg),bottle,30.0 ml in 1 bottle,60.0,0
+dolospan 100mg injection,tramadol 100mg,injection,100,21.28,2
+dolospan 20mg100mg tablet,dicyclomine (20mg) + nimesulide (100mg),strip,100,143.3909250764526,1
+dolospan dp 10mg325mg375mg tablet,"domperidone 10mg,paracetamol/acetaminophen 325mg,t",strip,375,75.0,4
+dolospan dp strip of 10 tablets,dicycloverine hydrochloride,STRIP,10 Tablet(s) in Strip,75.0,1
+dolospan injection 2ml,tramadol(100.0 mg),INJECTION,2ml Injection,21.28,2
+dolospan od strip of 10 tablets,dexketoprofen(75.0 mg),STRIP,10 Tablet(s) in Strip,91.11,1
+dolospan od tablet,dexketoprofen 75mg,strip,10 tablets,95.0,1
+dolospan p fizz 325375 mg tablet 15,paracetamol + tramadol,STRIP,1000 Tablet(s) in Strip,155.0,4
+dolospan p fizz tablet,tramadol (37.5mg) + paracetamol (325mg),strip,10 tablets,143.3909250764526,4
+dolospan p fizz tablet 10,paracetamol + tramadol,STRIP,30 Tablet(s) in Strip,155.0,4
+dolospan p tablet,"paracetamol/acetaminophen 325mg,tramadol 37.5mg",strip,10 tablets,55.0,4
+dolospan p tablet 10s,paracetamol + tramadol,Strip | Tablet,10,55.0,4
+dolospan pfizz tablet 15s,acetaminophen-325mg + tramadol hydrochloride-37.5mg,Strip | Tablet,15,155.0,4
+dolospan sr strip of 10 tablets,dexketoprofen,STRIP,10 Tablet(s) in Strip,145.0,1
+dolospan tablets,nimesulide(100.0 mg) + dicycloverine / dicyclomine(20.0 mg),STRIP,10 Tablet(s) in Strip,72.0,1
+dolospark 100mg325mg tablet,"aceclofenac 100mg,paracetamol/acetaminophen 325mg",strip,325,7.8,4
+dolosparksp 100 mg325 mg15 mg tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,80.0,4
+dolosparksp tablet,"aceclofenac 100mg,paracetamol/acetaminophen 325mg,",strip,10 tablets,14.0,4
+dolospark sp tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,80.0,4
+dolospark tablet 10s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,10,49.0,4
+dolospark tablets,aceclofenac + paracetamol,STRIP,10 Tablet(s) in Strip,49.0,4
+dolosparkth tablet 10s,aceclofenac-100mg + paracetamol-325mg + thiocolchicoside-4mg,Strip | Tablet,10,190.0,4
+dolospas 20mg325mg tablet,dicyclomine (20mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,29.5,4
+dolospas 20 mg500 mg tablet,dicyclomine (20mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,35.0,4
+dolospas drops,dicycloverine + paracetamol,BOTTLE,10ml Oral Drop in Bottle,13.57,0
+dolospas spas oral drops,dicyclomine (10mg) + simethicone (40mg),bottle,10.0 ml in 1 bottle,24.0,0
+dolospas tablet,dicycloverine / dicyclomine(20.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,72.0,4
+dolostan tablet,mefenamic acid (250mg),strip,10.0 tablets in 1 strip,19.9,1
+dolostat 100mg tablet,aceclofenac 100mg,strip,100,35.0,1
+dolostat 200mg tablet sr,aceclofenac (200mg),strip,10.0 tablet sr in 1 strip,31.95,1
+dolostat 200 mg tablet sr 10,aceclofenac(200.0 mg),STRIP,10 Tablet(s) in Strip,36.0,1
+dolostat gel 30gm,diclofenac(1.16 %) + methyl salicylate(5.0 %) + menthol(5.0 %) + linseed oil(3.0 %) + capsaicin(0.025 %),TUBE,30g Gel in Tube,68.0,3
+dolostat mr 100 mg325 mg500 mg tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (500mg),strip,10.0 tablets in 1 strip,54.0,4
+dolostat mr strip of 10 tablets,aceclofenac(100.0 mg) + chlorzoxazone(500.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,54.0,4
+dolostat mr tablet 10s,aceclofenac-100mg + chlorzoxazone-500mg + paracetamol-325mg,Strip | Tablet,10,54.0,4
+dolostat pc 100 mg325 mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,29.5,4
+dolostat pc strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,29.5,4
+dolostat pc tablet 10s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,10,29.5,4
+dolostat plus 100 mg325 mg10 mg tablet,aceclofenac (100mg) + paracetamol (325mg) + rabeprazole (10mg),strip,10.0 tablets in 1 strip,32.0,4
+dolostat plus gel,capsaicin + diclofenac + linseed oil + menthol + methyl salcylate,TUBE,30g Gel in Tube,80.0,3
+dolostat plus r capsule sr,aceclofenac (200mg) + rabeprazole (20mg),strip,10.0 capsule sr in 1 strip,65.0,1
+dolostat plus r strip of 10 capsules,rabeprazole(20.0 mg) + aceclofenac(200.0 mg),STRIP,10 Capsule(s) in Strip,78.0,1
+dolostat plus tablets,aceclofenac + paracetamol + rabeprazole,STRIP,10 Tablet(s) in Strip,82.99,4
+dolostat r 200mg20mg capsule,aceclofenac (200mg) + rabeprazole (20mg),strip,10.0 capsules in 1 strip,71.0,1
+dolostat r capsule 10s,aceclofenac-200mg + rabeprazole-20mg,Strip | Capsule,10,78.0,1
+dolostat r strip of 10 capsules,rabeprazole(20.0 mg) + aceclofenac(200.0 mg),STRIP,10 Capsule(s) in Strip,71.0,1
+dolostat sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,54.0,4
+dolostat sp tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg,",strip,10 tablets,39.0,4
+dolostatsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,54.0,4
+dolosun tablet,caffeine-25mg + paracetamol-325mg,Strip | Tablet,10,18.0,4
+dolosure 100mg tablet sr,diclofenac (100mg),strip,10.0 tablet sr in 1 strip,49.0,1
+dolosure aq 75mg injection,diclofenac (75mg/ml),injection,30.0 ml in 1 vial,17.4,2
+dolosuredt tablet,piroxicam 20mg,strip,10 tablets,32.0,1
+doloswift 2mg injection 2ml,piroxicam,INJECTION,2ml Injection,14.0,2
+doloswift 20mg capsule,piroxicam (20mg),strip,10.0 capsules in 1 strip,4.68,1
+doloswift 20mg capsules,piroxicam(20.0 mg),STRIP,10 Capsule(s) in Strip,279.0,1
+doloswift 20mg injection,piroxicam 20mg,injection,20,14.2,2
+doloswift 20mg tablet dt,piroxicam (20mg),strip,10.0 tablet dt in 1 strip,3.75,1
+doloswift 50mg tablet,tapentadol (50mg),strip,50,143.3909250764526,1
+doloswift 50 tablet 10s,tapentadol-50mg,Strip | Tablet,10,279.0,1
+doloswift dt 20mg tablet,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,35.0,1
+doloswin 650mg tablet,paracetamol-650mg,Strip | Tablet,10,18.75,4
+dolosys mr 100mg325mg250mg tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,10.0 tablets in 1 strip,80.0,4
+dolotejaqua injection,diclofenac (75mg),injection,1.0 ml in 1 ampoule,31.0,2
+doloten 20mg injection,piroxicam-20mg,Vial | Injection,2,25.0,2
+dolotop cream 15gm,capsicum oleoresin + menthol + methyl salcylate + piroxicam,TUBE,15g Cream in Tube,24.0,3
+dolotop cream 5gm,capsicum oleoresin + menthol + methyl salcylate + piroxicam,TUBE,5g Cream in Tube,19.0,3
+dolotrag p tablets,paracetamol + tramadol,STRIP,10 Tablet(s) in Strip,143.3909250764526,4
+dolotram 100mg injection,tramadol 100mg,injection,100,24.75,2
+dolotram 100mg injection 2ml,tramadol(100.0 mg),INJECTION,2ml Injection,24.75,2
+dolotram 50mg capsule,tramadol 50mg,strip,50,58.28,1
+dolotram 50mg capsules,tramadol(50.0 mg),STRIP,10 Capsule(s) in Strip,57.0,4
+dolotram 50mg injection,tramadol 50mg,injection,50,14.52,2
+dolotram 50mg injection 1ml,tramadol(50.0 mg),INJECTION,1ml Injection,14.52,2
+dolotrap 375mg325mg tablet,tramadol (37.5mg) + paracetamol (325mg),strip,325,143.3909250764526,4
+dolotrap tablet 10s,paracetamol-325mg + tramadol-37.5mg,Strip | Tablet,10,80.0,4
+dolotrol 100mg tablet sr,tramadol 100mg,strip,100,109.0,1
+dolotrol 50mg tablet,tramadol (50mg),strip,50,143.3909250764526,1
+dolotus aqua 75mg injection,diclofenac (75mg),injection,75,143.3909250764526,2
+dolotus aqua 75 mg injection 1 ml,diclofenac(75.0 mg),VIAL,1ml Injection in Vial,15.35,2
+dolotus p syrup,paracetamol (250mg/5ml),bottle,60.0 ml in 1 bottle,143.3909250764526,0
+dolotus p tablet,aceclofenac (100mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,38.9,4
+dolotusp tablet 10s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,10,49.0,4
+dolotus sf syrup 100 ml,levocloperastine fendizoate(20.0 mg),BOTTLE,100ml Syrup in Bottle,113.0,0
+dolotus sp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,143.3909250764526,4
+dolotuss sf bottle of 100ml suspension,levocloperastine fendizoate(20.0 mg/5ml),BOTTLE,100ml Suspension in Bottle,123.0,0
+dolotuss sf oral suspension 100 ml,levocloperastine fendizoate-20mg,Bottle | Oral Suspension,100,134.0,0
+dolotuss sf oral suspension sugar free,levocloperastine (20mg/5ml),bottle,100.0 ml in 1 bottle,134.0,0
+dolotuss sugar free bottle of 100ml suspension,levocloperastine fendizoate(20.0 mg),BOTTLE,100ml Suspension in Bottle,113.0,0
+dolotuss suspension,levocloperastine 20mg/5ml,bottle,100 ml,92.0,0
+dolour 100mg tablet,aceclofenac-100mg,Strip | Tablet,10,39.0,1
+dolour 100mg tablets,aceclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,104.0,1
+dolout p 325 mg375 mg tablet,"paracetamol/acetaminophen 325mg,tramadol 37.5mg",strip,375,38.46,4
+dolout p 375mg325mg tablet,tramadol (37.5mg) + paracetamol (325mg),strip,325,143.3909250764526,4
+dolout p tablets,tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,40.0,4
+doloval 10mg tablet,valdecoxib (10mg),strip,10,143.3909250764526,1
+doloval 10 mg tablet 10,valdecoxib(10.0 mg),STRIP,10 Tablet(s) in Strip,29.0,1
+dolovay 50 injection,nandrolone decanoate (50mg),injection,1.0 ml in 1 vial,120.0,2
+dolovent 20mg tablet dt,piroxicam 20mg,strip,20,68.0,1
+dolovera gel 30gm,aloe vera-2%w/w + diclofenac sodium-1%w/w + menthol-5%w/w + methyl salicylate-15%w/w,Tube | Gel,30,99.5,3
+dolovera tube of 30gm gel,diclofenac(1.16 %w/w) + menthol(5.0 %w/w) + methyl salicylate(15.0 %w/w) + aloe vera(2.0 %w/w),TUBE,30g Gel in Tube,98.5,3
+dolovij oint,diclofenac + linseed oil + menthol + methyl salicylate,TUBE,30g Ointment in Tube,143.3909250764526,3
+dolovis r 20020 mg capsule 10,aceclofenac(100.0 mg) + rabeprazole(20.0 mg),STRIP,10 Capsule(s) in Strip,65.0,1
+dolovis sp 10032515 mg tablet 10,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,108.0,4
+dolovistpg tablet sr,aceclofenac (200mg) + pregabalin (75mg),strip,10.0 tablet sr in 1 strip,199.0,1
+dolovistsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,80.0,4
+dolowalk 50mg500mg tablet,diclofenac-50mg + paracetamol-500mg,Strip | Tablet,10,32.0,4
+dolowalk gel,benzyl alcohol + diclofenac diethylamine + menthol + methyl salicylate + oleum,TUBE,30g Gel in Tube,77.0,3
+dolowalk injection 3ml,diclofenac sodium,INJECTION,3ml Injection,7.0,2
+dolowalk mr tablets,chlorzoxazone + diclofenac sodium + paracetamol,STRIP,10 Tablet(s) in Strip,35.0,4
+dolowalk s tablets,diclofenac potassium + serratiopeptidase,STRIP,10 Tablet(s) in Strip,162.3,1
+dolowalk tablets,diclofenac sodium + paracetamol,STRIP,10 Tablet(s) in Strip,143.3909250764526,4
+dolowell gel 30gm,methyl salicylate(10.0 %w/w) + linseed oil(3.0 %w/w) + diclofen diethylamine(1.16 %w/w) + menthol(5.0 %w/w),TUBE,30g Gel in Tube,85.0,3
+dolowell gel 30 gm,diclofenac-1%w/w + linseed oil-3%w/w + menthol-5%w/w + methyl salicylate-10%w/w,Tube | Gel,30,85.0,3
+dolowell sp 100mg325mg15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,92.0,4
+dolowin 100mg strip of 10 tablets,aceclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,60.0,1
+dolowin 100 mg tablet 10s,aceclofenac-100mg,Strip | Tablet,10,60.0,1
+dolowin forte strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,162.0,4
+dolowin forte tablet,"aceclofenac 100mg,paracetamol/acetaminophen 500mg,",strip,10 tablets,125.0,4
+dolowin forte tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,162.0,4
+dolowin gel,methyl salicylate(10.0 %) + menthol(5.0 %) + capsaicin(0.025 %) + linseed oil(3.0 %),TUBE,30g Gel in Tube,122.0,3
+dolowin gel 30 gm,capsaicin-0.025%w/w + diclofenac diethylamine-1.16%w/w + menthol-5%w/w + methyl salicylate-10%w/w + virgin linseed oil-3%w/w,Tube | Gel,30,122.0,3
+dolowin injection,aceclofenac(150.0 mg),INJECTION,1ml Injection,5.0,2
+dolowin mr strip of 10 tablets,chlorzoxazone(250.0 mg) + aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,106.0,4
+dolowinmr tablet,aceclofenac (100mg) + paracetamol (325mg) + chlorzoxazone (250mg),strip,10.0 tablets in 1 strip,106.0,4
+dolowin mr tablet 10s,aceclofenac-100mg + chlorzoxazone-250mg + paracetamol-500mg,Strip | Tablet,10,106.0,4
+dolowin nano gel 30 gm,capsaicin-0.025%w/w + diclofenac-1%w/w + menthol-5%w/w + methyl salicylate-10%w/w + virgin linseed oil-3%w/w,Tube | Gel,30,122.0,3
+dolowin old tablet,pentazocine na,strip,10 tablets,25.47,1
+dolowin old tablet 10,pentazocine,STRIP,10 Tablet(s) in Strip,25.47,1
+dolowin plus strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,82.0,4
+dolowin plus tab 1x10,aceclofenac 100 mg+paracetamol/acetaminophen 500 mg,Strip,10,82.0,4
+dolowinplus tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,82.0,4
+dolowin plus tablet 10s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,10,82.0,4
+dolowin spas strip of 10 tablets,drotaverine(80.0 mg) + aceclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,119.67,1
+dolowin spas tab 1x10,aceclofenac 100 mg+drotaverine 80 mg,Strip,10,119.0,1
+dolowin spas tablet,"drotaverine 80mg,aceclofenac 100mg",strip,10 tablets,130.0,1
+dolowin spas tablet 10s,aceclofenac-100mg + drotaverine-80mg,Strip | Tablet,10,130.0,1
+dolowin sr 200mg strip of 10 tablets,aceclofenac(200.0 mg),STRIP,10 Tablet(s) in Strip,86.0,1
+dolowinsr tablet,aceclofenac 200mg,strip,10 tablets,72.0,1
+dolowin sr tablet 10s,aceclofenac-200mg,Strip | Tablet,10,94.0,1
+dolowin t 50mg500mg tablet,"tramadol 50mg,paracetamol/acetaminophen 500mg",strip,500,45.0,4
+dolowin tablet,aceclofenac 100mg,strip,10 tablets,60.0,1
+dolowin tc 4 strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),STRIP,10 Tablet(s) in Strip,162.0,1
+dolowin tc 4 tablet,"aceclofenac 100mg,thiocolchicoside 4mg",strip,4,162.0,1
+dolowin tc 4 tablet 10s,aceclofenac-100mg + thiocolchicoside-4mg,Strip | Tablet,10,192.0,1
+dolowin tc 8mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(8.0 mg),STRIP,10 Tablet(s) in Strip,260.0,1
+dolowin tc 8 tablet,aceclofenac (100mg) + thiocolchicoside (8mg),strip,10.0 tablets in 1 strip,260.0,1
+dolowin tc 8 tablet 10s,aceclofenac-100mg + thiocolchicoside-8mg,Strip | Tablet,10,284.0,1
+dolowind aq injection,diclofenac (75mg),injection,1.0 ml in 1 ampoule,15.0,2
+dolox 20mg tablet dt,piroxicam (20mg),strip,10.0 tablet dt in 1 strip,39.0,1
+dolox 40mg injection,piroxicam (40mg),injection,40,143.3909250764526,2
+dolox dt 20mg tablets,piroxicam(20.0 mg),STRIP,10 Tablet(s) in Strip,39.0,1
+doloxer 650mg tablet,paracetamol (650mg),strip,15.0 tablets in 1 strip,143.3909250764526,4
+doloxia 90mg strip of 10 tablets,etoricoxib(90.0 mg),STRIP,10 Tablet(s) in Strip,99.0,1
+doloxicam 20mg2ml inj,piroxicam-20mg,Ampoule | Injection,2,241.0,2
+doloxicam 20mg dt tablet 15s,piroxicam-20mg,Strip | Tablet,15,216.5,1
+doloxicam ampoule of 2ml injection,piroxicam(40.0 mg),AMPOULE,2ml Injection in Ampoule,53.08,2
+doloxicam dt 20mg tab 1x15,piroxicam 20 mg,Strip TABLET,15,216.59,1
+doloxicam dt strip of 15 tablets,piroxicam(20.0 mg),STRIP,15 Tablet(s) in Strip,179.0,1
+doloxicam dt tablet,piroxicam (20mg),strip,15.0 tablet dt in 1 strip,216.59,1
+doloxicam injection,piroxicam (40mg),injection,2.0 ml in 1 ampoule,43.88,2
+doloxicam injection 5 x 2 ml,piroxicam-20mg,Packet | Injection,5 x 2,265.0,2
+doloxicam tablet,piroxicam (na),strip,15.0 tablets in 1 strip,143.3909250764526,1
+doloxycv 12gm injection,amoxycillin (1000mg) + clavulanic acid (200mg),injection,12,143.3909250764526,2
+doloxycv 375 mg tablet 6s,amoxycillin-250mg + clavulanic acid-125mg,Strip | Tablet,6,138.0,1
+doloxycv 375 tablet,amoxycillin (250mg) + clavulanic acid (125mg),strip,6.0 tablets in 1 strip,95.0,1
+doloxycv 500125 mg tablet 6,amoxicillin(500.0 mg) + clavulanate(125.0 mg),STRIP,6 Tablet(s) in Strip,95.0,1
+doloxycv dry syrup,amoxycillin (200mg) + clavulanic acid (28.5mg),bottle,100 ml,143.3909250764526,0
+doloxycv forte dry syrup,amoxycillin-400mg + clavulanic acid-57mg,Bottle | Syrup,30,129.0,0
+doloxycv lb tablet,amoxycillin (500mg) + clavulanic acid (125mg) + lactobacillus (60million spores),strip,6.0 tablets in 1 strip,156.0,1
+doloxy cv oral drops,amoxycillin (80mg) + clavulanic acid (11.4mg),bottle,10.0 ml in 1 bottle,55.0,0
+dolozak tablet,chlorzoxazone (250mg) + diclofenac (50mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,36.0,4
+dolozap 100325mg strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,48.0,4
+dolozap 100mg325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,45.0,4
+dolozap gel 30 gm,diclofenac(1.16 %w/w) + linseed oil(3.0 %w/w) + menthol(5.0 %w/w) + methyl salicylate(10.0 %w/w),TUBE,30g Gel in Tube,77.0,3
+dolozap mr 4 mg tablet 10,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),STRIP,10 Tablet(s) in Strip,160.0,1
+dolozed 50mg325mg tablet,"diclofenac 50mg,paracetamol/acetaminophen 325mg",strip,325,19.9,4
+dolozed mr 250mg50mg325mg tablet,"chlorzoxazone 250mg,diclofenac 50mg,paracetamol/ac",strip,325,34.9,4
+dolozed mr tablet,chlorzoxazone (250mg) + diclofenac (50mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,34.9,4
+dolozed tablet,diclofenac (50mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,19.9,4
+dolozen 10mg tablet,serratiopeptidase 10mg,strip,10,56.58,1
+dolozen d 50 mg10 mg tablet,diclofenac (50mg) + serratiopeptidase (10mg),strip,10.0 tablets in 1 strip,61.37,1
+dolozen forte 10mg tablet,serratiopeptidase 10mg,strip,10,56.42,1
+dolozer 75mg injection,diclofenac 75mg,injection,75,14.0,2
+dolozer mr tablet,chlorzoxazone (250mg) + diclofenac (50mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,60.0,4
+dolozer sp 50mg325mg15mg tablet,"diclofenac 50mg,paracetamol/acetaminophen 325mg,se",strip,15,65.0,4
+dolozest p 100mg325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,47.2,4
+dolozest sp 100mg325mg15mg tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,78.6,4
+dolozest sp 50mg325mg15mg tablet,diclofenac (50mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,66.0,4
+dolozid 75mg injection,diclofenac (75mg),injection,1.0 ml in 1 ampoule,18.0,2
+dolozin 50 mg2 mg tablet,"diclofenac 50mg,tizanidine 2mg",strip,2,53.32,1
+dolozit 20mg injection,piroxicam (20mg),injection,2.0 ml in 1 vial,25.0,2
+dolozox mr neo strip of 1o tablets,diclofenac sodium(50.0 mg) + chlorzoxazone(250.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,65.8,4
+dolozoxmr neo tablet 10s,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,65.5,4
+dolozox mr strip of 10 tablets,diclofenac(50.0 mg) + chlorzoxazone(250.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,65.8,4
+dolozoxmr tablet 10s,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,64.0,4
+dolozox strip of 10 tablets,diclofenac(50.0 mg) + chlorzoxazone(250.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,65.35,4
+dolozox tablet,"chlorzoxazone 250mg,diclofenac 50mg,paracetamol/ac",strip,10 tablets,58.8,4
+dolozox tablet 10s,chlorzoxazone-250mg + diclofenac-50mg + paracetamol-325mg,Strip | Tablet,10,79.5,4
+paracip 100 mg tablet 10,paracetamol / acetaminophen(100.0 mg),STRIP,10 Tablet(s) in Strip,76.92,4
+paracip 1000mg injection,paracetamol (1000mg),injection,2.0 ml in 1 vial,143.3909250764526,2
+paracip 125mg suspension,paracetamol (125mg),bottle,60.0 ml in 1 bottle,143.3909250764526,0
+paracip 125mg syp 60ml,paracetamol/acetaminophen 125 mg /5 ml,Bottle,60,24.86,0
+paracip 125mg syrup 60ml,paracetamol / acetaminophen(125.0 mg/5ml),BOTTLE,60ml Syrup in Bottle,24.92,0
+paracip 150 mg injection 2 ml,paracetamol / acetaminophen(150.0 mg),BOTTLE,2ml Injection in Bottle,6.0,0
+paracip 150 mg injection 30 ml,paracetamol,INJECTION,10 Injection(s) in Injection,421.68,0
+paracip 250mg suspension 60ml,paracetamol / acetaminophen(250.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,45.02,0
+paracip 250mg syp 60ml,paracetamol/acetaminophen 250 mg /5ml,Bottle SYRUP,60,45.02,0
+paracip 500mg strip of 10 tablets,paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,9.96,4
+paracip 500mg strip of 15 tablets,paracetamol / acetaminophen(500.0 mg),STRIP,15 Tablet(s) in Strip,9.96,4
+paracip500 tablet,paracetamol 500mg,strip,500,11.0,4
+paracip 500 tablet,paracetamol (500mg),strip,10.0 tablets in 1 strip,9.96,4
+paracip 650mg strip of 10 tablets,paracetamol / acetaminophen(650.0 mg),STRIP,10 Tablet(s) in Strip,22.51,4
+paracip 650mg tab 1x10,paracetamol/acetaminophen 650 mg,Strip TABLET,10,22.4,4
+paracip 650mg tablet,paracetamol (650mg),strip,10.0 tablets in 1 strip,143.3909250764526,4
+paracip650 tablet,paracetamol 650mg,strip,650,22.51,4
+paracip650 tablet 10s,paracetamol-650mg,Strip | Tablet,10,22.5,4
+paracip cpm 5 mg500 mg tablet,"chlorpheniramine maleate 5mg,paracetamol/acetamino",strip,500,6.28,4
+paracip cpm tablets,chlorpheniramine / chlorphenamine(5.0 mg) + paracetamol / acetaminophen(500.0 mg),STRIP,10 Tablet(s) in Strip,6.28,4
+paracip drops,paracetamol/acetaminophen 150mg,bottle,100 ml,29.8,0
+paracip drops 15 ml,paracetamol-150mg,Bottle | Drops,15,37.0,0
+paracip infusion,paracetamol/acetaminophen 1000mg,bottle,100 ml,421.68,0
+paracip injection 100ml,paracetamol / acetaminophen(1000.0 mg),BOTTLE,100ml Infusion in Bottle,510.22,0
+paracip injection 100 ml,paracetamol-1000mg,Vial | Injection,100,617.0,2
+paracip injection 2ml,paracetamol / acetaminophen(1000.0 mg),AMPOULE,2ml Injection in Ampoule,288.5,4
+paracip plus tablets,diclofenac potassium + paracetamol,STRIP,10 Tablet(s) in Strip,14.0,4
+paracip suspension,paracetamol/acetaminophen 250mg/5ml,bottle,100 ml,39.62,0
+paracip suspension 60 ml,paracetamol-250mg,Bottle | Suspension,60,45.0,0
+paracip suspension 60ml for fever  pain management,paracetamol (250mg/5ml),bottle,60.0 ml in 1 bottle,45.02,0
+paracip syrup,paracetamol/acetaminophen 125mg/5ml,bottle,100 ml,38.0,0
+paracip syrup 60 ml,paracetamol-125mg,Bottle | Syrup,60,24.5,0
+paracip tablet,paracetamol/acetaminophen 500mg,strip,10 tablets,10.2,4
+zerodol 100mg strip of 10 tablets,aceclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,59.3,1
+zerodol 100mg tablet 10s,aceclofenac 100 mg,STRIP,10 Tablet(s) in a Strip,59.3,1
+zerodol 100 tablet 10s,aceclofenac-100mg,Strip | Tablet,10,59.0,1
+zerodol 150mg injection,aceclofenac 150mg,injection,150,19.8,2
+zerodol 150 mg injection 1 ml,aceclofenac-150mg,Vial | Injection,1,119.0,2
+zerodol ampoule of 1ml injection,aceclofenac(150.0 mg/ml),AMPOULE,1ml Injection in Ampoule,19.8,2
+zerodol cr 200mg strip of 10 tablets,aceclofenac(200.0 mg),STRIP,10 Tablet(s) in Strip,100.7,1
+zerodol cr 200mg tablet 10s,aceclofenac 200 mg,STRIP,10 Tablet(s) in a Strip,100.7,1
+zerodol cr tab 1x10,aceclofenac 200 mg sustained release,Strip TABLET,10,100.7,1
+zerodol cr tablet,aceclofenac (200mg),strip,10.0 tablet cr in 1 strip,100.7,1
+zerodol cr tablet 10s,aceclofenac-200mg,Strip | Tablet,10,100.5,1
+zerodol gel 30gm,aceclofenac-1.5%w/w + linseed oil-3%w/w + menthol-1.25%w/w + methyl salicylate-2.5%w/w,Tube | Gel,30,151.0,3
+zerodol gel 30gm,aceclofenac 1.5 %+linseed oil 3 %+menthol 5 %+methyl salicylate 10 %,TUBE,30GM,151.0,3
+zerodol mr strip of 10 tablets,aceclofenac(100.0 mg) + tizanidine(2.0 mg),STRIP,10 Tablet(s) in Strip,119.05,1
+zerodol mr tab 1x10,aceclofenac 100 mg + tizanidine 2 mg,Strip TABLET,10,119.05,1
+zerodolmr tablet,"aceclofenac 100mg, tizanidine 2mg",strip,10 tablets,119.05,1
+zerodolmr tablet 10s,aceclofenac-100mg + tizanidine-2mg,Strip | Tablet,10,119.0,1
+zerodol mr tablet 10s,aceclofenac 100 mg+tizanidine 2 mg,STRIP,10 Tablet(s) in a Strip,119.05,1
+zerodol p 100mg500mg tablet,aceclofenac (100mg) + paracetamol (500mg),strip,10.0 tablets in 1 strip,249.18,4
+zerodol p strip of 10 tablets,aceclofenac(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,73.0,4
+zerodol p tab 1x10,aceclofenac 100 mg+paracetamol/acetaminophen 325 mg,Strip,10,73.0,4
+zerodolp tablet,"paracetamol 325mg, aceclofenac 100mg",strip,10 tablets,73.0,4
+zerodol p tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,73.0,4
+zerodol p tablet 10s,aceclofenac 100 mg+paracetamol 325 mg,STRIP,10 Tablet(s) in a Strip,73.0,4
+zerodolp tablet 10s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,10,73.0,4
+zerodol pg 200150mg tablet,aceclofenac-200mg + pregabalin-150mg,Strip | Tablet,10,60.0,1
+zerodolpg 200150 tablet sr,aceclofenac (200mg) + pregabalin (150mg),strip,10.0 tablet sr in 1 strip,214.5,1
+zerodol pg 20075mg strip of 10 tablets,aceclofenac(200.0 mg) + pregabalin(75.0 mg),STRIP,10 Tablet(s) in Strip,233.1,1
+zerodol pg 20075mg tablet,aceclofenac-200mg + pregabalin-75mg,Strip | Tablet,10,233.0,1
+zerodol pg 20075 tablet 10s,aceclofenac 200 mg+pregabalin 75 mg,STRIP,10 Tablet(s) in a Strip,233.1,1
+zerodolpg 20075 tablet sr,aceclofenac (200mg) + pregabalin (75mg),strip,10.0 tablet sr in 1 strip,233.1,1
+zerodol pg tablet,pregabalin(150.0 mg) + aceclofenac(200.0 mg),STRIP,10 Tablet(s) in Strip,214.5,1
+zerodol pt tablet,aceclofenac (100mg) + paracetamol (325mg) + tramadol (37.5mg),strip,10 tablets,143.3909250764526,4
+zerodol pt tablet,aceclofenac(100.0 mg) + tramadol(37.5 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,100.37,4
+zerodol pt tablet 10s,aceclofenac-100mg + paracetamol-325mg + tramadol-37.5mg,Strip | Tablet,10,162.5,4
+zerodol s 10015 mg tablet 10,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg),STRIP,10 Tablet(s) in Strip,125.65,1
+zerodol s tab 1x10,aceclofenac 100 mg + serratiopeptidase 15 mg,Strip TABLET,10,103.95,1
+zerodols tablet,"aceclofenac 100mg,serratiopeptidase 15mg",strip,10 tablets,103.95,1
+zerodol s tablet 10s,aceclofenac-100mg + serratiopeptidase-15mg,Strip | Tablet,10,114.0,1
+zerodol s tablet 10s,aceclofenac 100 mg+serratiopeptidase 15 mg,STRIP,10 Tablet(s) in a Strip,114.3,1
+zerodol sp strip of 10 tablets,aceclofenac(100.0 mg) + serratiopeptidase(15.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,130.1,4
+zerodol sp tab 1x10,aceclofenac 100 mg+paracetamol/acetaminophen 325 mg+serratiopeptidase 15 mg,Strip,10,130.1,4
+zerodolsp tablet,aceclofenac (100mg) + paracetamol (325mg) + serratiopeptidase (15mg),strip,10.0 tablets in 1 strip,130.1,4
+zerodol sp tablet 10s,aceclofenac 100 mg+paracetamol 325 mg+serratiopeptidase 15 mg,STRIP,10 Tablet(s) in a Strip,130.1,4
+zerodolsp tablet 10s,aceclofenac-100mg + paracetamol-325mg + serratiopeptidase-15mg,Strip | Tablet,10,130.0,4
+zerodol spas strip of 10 tablets,drotaverine(80.0 mg) + aceclofenac(100.0 mg),STRIP,10 Tablet(s) in Strip,159.1,1
+zerodol spas tab 1x10,aceclofenac 100 mg + drotaverine 80 mg,Strip TABLET,10,159.1,1
+zerodol spas tablet,drotaverine (80mg) + aceclofenac (100mg),strip,10.0 tablets in 1 strip,159.1,1
+zerodolspas tablet 10s,aceclofenac-100mg + drotaverine-80mg,Strip | Tablet,10,159.0,1
+zerodol spas tablet 10s,aceclofenac 100 mg+drotaverine 80 mg,STRIP,10 Tablet(s) in a Strip,159.1,1
+zerodol tab 1x10,aceclofenac 100 mg,Strip TABLET,10,59.3,1
+zerodol tablet,aceclofenac 100mg,strip,10 tablets,59.3,1
+zerodol tc 100mg325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,155.1,4
+zerodol tc tablet 10s,aceclofenac-100mg + paracetamol-325mg + trypsin chymotrypsin-150000au,Strip | Tablet,10,155.0,4
+zerodol th 4mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg),STRIP,10 Tablet(s) in Strip,252.7,1
+zerodol th 4mg tab 1x10,aceclofenac 100 mg + thiocolchicoside 4 mg,Strip TABLET,10,252.7,1
+zerodol th 4mg tablet 10s,aceclofenac 100 mg+thiocolchicoside 4 mg,STRIP,10 Tablet(s) in a Strip,252.7,1
+zerodol th 4 tablet,"aceclofenac 100mg, thiocolchicoside 4mg",strip,4,252.7,1
+zerodol th 4 tablet 10s,aceclofenac-100mg + thiocolchicoside-4mg,Strip | Tablet,10,252.5,1
+zerodol th 8mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(8.0 mg),STRIP,10 Tablet(s) in Strip,374.85,1
+zerodol th 8mg tab 1x10,aceclofenac 100 mg + thiocolchicoside 8 mg,Strip TABLET,10,374.85,1
+zerodol th 8mg tablet 10s,aceclofenac 100 mg+thiocolchicoside 8 mg,STRIP,10 Tablet(s) in a Strip,374.85,1
+zerodol th 8 tablet,aceclofenac (100mg) + thiocolchicoside (8mg),strip,10.0 tablets in 1 strip,374.85,1
+zerodol th 8 tablet 10s,aceclofenac-100mg + thiocolchicoside-8mg,Strip | Tablet,10,374.5,1
+zerodol th max 4mg100mg325mg tablet,thiocolchicoside (4mg) + aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,209.0,4
+zerodol th max 4mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(4.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,190.05,4
+zerodol th max 4 tablet 10s,aceclofenac 100 mg+paracetamol 325 mg+thiocolchicoside 4 mg,STRIP,10 Tablet(s) in a Strip,190.05,4
+zerodol th max 8mg strip of 10 tablets,aceclofenac(100.0 mg) + thiocolchicoside(8.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,289.75,4
+zerodol th max 8 tablet,thiocolchicoside (8mg) + aceclofenac (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,289.75,4
+zerodol th max 8 tablet 10s,aceclofenac-100mg + paracetamol-325mg + thiocolchicoside-8mg,Strip | Tablet,10,289.5,4
+zerodol th max 8 tablet 10s,aceclofenac 100 mg+paracetamol 325 mg+thiocolchicoside 8 mg,STRIP,10 Tablet(s) in a Strip,289.75,4
+zerodol th od 16mg strip of 10 capsules,thiocolchicoside(16.0 mg) + aceclofenac(200.0 mg),STRIP,10 Capsule(s) in Strip,175.0,1
+zerodol th od 16mg tablet,aceclofenac-16mg + thiocolchicoside-16mg,Strip | Tablet,1,195.0,1
+zerodol th od 200 mg16 mg capsule sr,"aceclofenac 200mg,thiocolchicoside 16mg",strip,16,195.0,1
+zerodol th od 200 mg8 mg capsule sr,aceclofenac (200mg) + thiocolchicoside (8mg),strip,5.0 capsule sr in 1 strip,230.0,1
+zerodol th od 8 capsule 5s,aceclofenac-200mg + thiocolchicoside-8mg,Strip | Capsule,5,230.0,1
+zerodol th od 8mg capsule 5s,aceclofenac 200 mg+thiocolchicoside 8 mg,STRIP,5 Capsule(s) in a Strip,230.0,1
+zerodol th od 8mg strip of 10 capsules,aceclofenac(200.0 mg) + thiocolchicoside(8.0 mg),STRIP,10 Capsule(s) in Strip,190.2,1
+zerodol th od 8mg strip of 5 capsules,aceclofenac(200.0 mg) + thiocolchicoside(8.0 mg),STRIP,5 Capsule(s) in Strip,230.0,1
+zerodol th od 8mg strip of 5 tablets,aceclofenac(200.0 mg) + thiocolchicoside(8.0 mg),STRIP,5 Tablet(s) in Strip,209.15,1
+afpin cl strip of 10 capsules,boswelia serrata extract(50.0 mg) + curcuma longa rhizome extract(400.0 mg),STRIP,10 Capsule(s) in Strip,235.5,1
+cumigold capsule 10s,nano curcumin-500mg + piperine-5mg,Strip | Capsule,10,367.0,1
+cumigold strip of 10 capsules,nano curcumin + piperine,STRIP,10 Capsule(s) in Strip,297.0,3
+celtere 120 injection 30 ml,docetaxel-120mg,Vial | Injection,0.3,15620.0,2
+celtere 120mg injection,docetaxel(120.0 mg),INJECTION,1 Injection(s) in Injection,7004.07,2
+celtere 20mg injection,docetaxel(20.0 mg),INJECTION,1 Injection(s) in Injection,3200.0,2
+celtere 20 mg injection 05 ml,docetaxel-20mg,Vial | Injection,0.5,3927.0,2
+celtere 80mg injection,docetaxel,VIAL,1 VIAL(s),15070.0,2
+celtere 80 mg injection 2 ml,docetaxel-80mg,Vial | Injection,2,15070.0,2
+nimulid 100 mg strip of 10 tablets,nimesulide(100.0 mg),STRIP,10 Tablet(s) in Strip,93.28,1
+nimulid 100mg strip of 15 tablets,nimesulide(100.0 mg),STRIP,15 Tablet(s) in Strip,93.28,1
+nimulid ap 100mg325mg tablet,aceclofenac (100mg) + paracetamol (325mg),strip,15.0 tablets in 1 strip,68.51,4
+nimulidap tablet 15s,aceclofenac-100mg + paracetamol-325mg,Strip | Tablet,15,68.5,4
+nimulid ath 100mg4mg tablet,aceclofenac (100mg) + thiocolchicoside (4mg),strip,10.0 tablets in 1 strip,143.3909250764526,1
+nimulid ath 100mg8mg tablet,aceclofenac (100mg) + thiocolchicoside (8mg),strip,10.0 tablets in 1 strip,143.3909250764526,1
+nimulidath 4 tablet 10s,aceclofenac-100mg + thiocolchicoside-4mg,Strip | Tablet,10,174.0,1
+nimulidath 8 tablet 10s,aceclofenac-100mg + thiocolchicoside-8mg,Strip | Tablet,10,264.5,1
+nimulid ds 200mg tablet,nimesulide (200mg),strip,10.0 tablets in 1 strip,37.5,1
+nimulid ds 200mg tablets,nimesulide(200.0 mg),STRIP,10 Tablet(s) in Strip,38.46,1
+nimulid ef tablet,nimesulide na,strip,10 tablets,44.28,1
+nimulid ef tablet 2,nimesulide,STRIP,2 Tablet(s) in Strip,5.9,1
+nimulid er tablet,nimesulide(200.0 mg),STRIP,10 Tablet(s) in Strip,77.1,1
+nimulid hf strip of 10 tablets,nimesulide(100.0 mg) + paracetamol / acetaminophen(325.0 mg),STRIP,10 Tablet(s) in Strip,74.7,4
+nimulidhf tablet,"nimesulide 100mg,paracetamol/acetaminophen 325mg",strip,10 tablets,61.8,4
+nimulid hf tablet,nimesulide-100mg + paracetamol-325mg,Strip | Tablet,10,74.5,4
+nimulid md kid tablet,nimesulide(50.0 mg),STRIP,10 Tablet(s) in Strip,56.97,1
+nimulid md strip of 10 tablets,nimesulide(100.0 mg),STRIP,10 Tablet(s) in Strip,98.65,1
+nimulid md strip of 15 tablets,nimesulide(100.0 mg),STRIP,15 Tablet(s) in Strip,108.45,1
+nimulidmd tablet,nimesulide 100mg,strip,10 tablets,108.45,1
+nimulid md tablet 15s,nimesulide-100mg,Strip | Tablet,15,108.0,1
+nimulidmd tablet orange,nimesulide (100mg),strip,15.0 tablet dt in 1 strip,108.45,1
+nimulid mr 100mg2mg tablet,"nimesulide 100mg,tizanidine 2mg",strip,2,119.1,1
+nimulid mr tablets,nimesulide(100.0 mg) + tizanidine(2.0 mg),STRIP,10 Tablet(s) in Strip,119.1,1
+nimulid nu gel 30gm,nimesulide(10.0 mg),TUBE,30g Gel in Tube,75.5,3
+nimulid safe 75mg injection,nimesulide 75mg,injection,75,17.0,2
+nimulid safe 75mg injection 2ml,nimesulide(75.0 mg),AMPOULE,2ml Injection in Ampoule,14.0,2
+nimulid sp 100 mg15 mg capsule,"nimesulide 100mg,serratiopeptidase 15mg",strip,15,88.4,1
+nimulid sp capsules,serratiopeptidase(15.0 mg) + nimesulide(100.0 mg),STRIP,10 Capsule(s) in Strip,88.4,1
+nimulid strip of 10 tablets,nimesulide(100.0 mg),STRIP,10 Tablet(s) in Strip,93.28,1
+nimulid syrup,nimesulide (50mg/5ml),bottle,60.0 ml in 1 bottle,26.62,0
+nimulid syrup 30ml,nimesulide,BOTTLE,30ml Syrup in Bottle,12.57,0
+nimulid syrup 60ml,nimesulide(50.0 mg),BOTTLE,60ml Suspension in Bottle,25.35,0
+nimulid tablet,nimesulide 100mg,strip,10 tablets,93.28,1
+nimulid tablet 15s,nimesulide-100mg,Strip | Tablet,15,93.0,1
+nimulid transgel 30 gm,nimesulide-1%w/w,Tube | Gel,30,76.5,3
+nimulid tube of 30gm transgel,nimesulide(10.0 mg),TUBE,30g Gel in Tube,84.15,3
+nimulide p 100mg325mg tablet,nimesulide (100mg) + paracetamol (325mg),strip,10.0 tablets in 1 strip,42.0,4
+corsango d3 strip of 15 tablets,vitamin d3 / cholecalciferol(500.0 iu) + elemental calcium(500.0 mg),STRIP,15 Tablet(s) in Strip,223.0,1
+corsangod3 suspension 100ml,calcium-200mg + vitamin d3-125iu,Bottle | Suspension,100,125.0,0
+corsango d3 suspension 100ml,calcium carbonate(200.0 mg) + vitamin d3 / cholecalciferol(125.0 iu),BOTTLE,100ml Suspension in Bottle,125.0,0
+corsangod3 tablet 15s,elemental calcium-500mg + vitamin d3-500iu,Strip | Tablet,15,223.0,1
+risdone 1mg liquid 60ml,risperidone 1 mg,BOTTLE,60ML,148.43,0
+risdone 1mg tablet,risperidone(1.0 mg),STRIP,10 Tablet(s) in Strip,26.16,1
+risdone 1mg tablet 10s,risperidone 1 mg,STRIP,10 Tablet(s) in a Strip,29.33,1
+risdone 1 tablet,risperidone 1mg,strip,1,23.06,1
+risdone1 tablet 10s,risperidone-1mg,Strip | Tablet,10,29.0,1
+risdone 2mg tab 1x10,risperidone 2 mg,Strip TABLET,10,50.18,1
+risdone 2mg tablet,risperidone(2.0 mg),STRIP,10 Tablet(s) in Strip,41.84,1
+risdone 2mg tablet 10s,risperidone 2 mg,STRIP,10 Tablet(s) in a Strip,50.18,1
+risdone 2 tablet,risperidone 2mg,strip,2,41.07,1
+risdone 2 tablet 10s,risperidone-2mg,Strip | Tablet,10,50.0,1
+risdone 3mg tab 1x10,risperidone 3 mg,Strip TABLET,10,78.0,1
+risdone 3mg tablet 10s,risperidone 3 mg,STRIP,10 Tablet(s) in a Strip,71.0,1
+risdone 3mg tablets,risperidone(3.0 mg),STRIP,10 Tablet(s) in Strip,78.0,1
+risdone 3 tablet,risperidone (3mg),strip,10.0 tablets in 1 strip,78.0,1
+risdone 3 tablet 10s,risperidone-3mg,Strip | Tablet,10,78.0,1
+risdone 4mg tablet 10s,risperidone 4 mg,STRIP,10 Tablet(s) in a Strip,81.57,1
+risdone 4mg tablets,risperidone(4.0 mg),STRIP,10 Tablet(s) in Strip,72.75,1
+risdone 4 tablet,risperidone 4mg,strip,4,64.12,1
+risdone 4 tablet 10s,risperidone-4mg,Strip | Tablet,10,81.5,1
+risdoneforte tablet,risperidone (4mg) + trihexyphenidyl (2mg),strip,10.0 tablets in 1 strip,114.0,1
+risdone forte tablet,risperidone(4.0 mg) + trihexyphenidyl / benzhexol hydrochloride(2.0 mg),STRIP,10 Tablet(s) in Strip,95.5,1
+risdone forte tablet 10s,risperidone-4mg + trihexyphenidyl-2mg,Strip | Tablet,10,114.0,1
+risdone forte tablet 10s,risperidone 4 mg+trihexyphenidyl 2 mg,STRIP,10 Tablet(s) in a Strip,114.0,1
+risdone liquid 60 ml,risperidone-1mg,Bottle | Solution,60,148.0,0
+risdone ls tablet,risperidone (2mg) + trihexyphenidyl (2mg),strip,10.0 tablets in 1 strip,85.0,1
+risdone ls tablet,risperidone(2.0 mg) + trihexyphenidyl / benzhexol hydrochloride(2.0 mg),STRIP,10 Tablet(s) in Strip,85.0,1
+risdone ls tablet 10s,risperidone-2mg + trihexyphenidyl-2mg,Strip | Tablet,10,85.0,1
+risdone ls tablet 10s,risperidone 2 mg+trihexyphenidyl 2 mg,STRIP,10 Tablet(s) in a Strip,85.0,1
+risdone mt 05mg tablet,risperidone(0.5 mg),STRIP,10 Tablet(s) in Strip,33.5,1
+risdone mt 05mg tablet 10s,risperidone 0.5 mg,STRIP,10 Tablet(s) in a Strip,33.5,1
+risdone mt 05 tablet 10s,risperidone-0.5mg,Strip | Tablet,10,33.5,1
+risdone mt 05 tablet md,risperidone 0.5mg,strip,05,30.5,1
+risdone mt 1mg tablet,risperidone(1.0 mg),STRIP,10 Tablet(s) in Strip,33.91,1
+risdone mt 1mg tablet,risperidone-1mg,Strip | Tablet,10,33.5,1
+risdone mt 1mg tablet 10s,risperidone 1 mg,STRIP,10 Tablet(s) in a Strip,33.91,1
+risdone mt 1 tablet,risperidone 1mg,strip,1,32.75,1
+risdone mt 2mg tab 1x10,risperidone 2 mg,Strip,10,50.18,1
+risdone mt 2mg tablet,risperidone 2mg,strip,2,47.0,1
+risdone mt 2mg tablet,risperidone(2.0 mg),STRIP,10 Tablet(s) in Strip,51.0,1
+risdone mt 2mg tablet 10s,risperidone 2 mg,STRIP,10 Tablet(s) in a Strip,50.18,1
+risdonemt2 tablet 10s,risperidone-2mg,Strip | Tablet,10,50.0,1
+risdoneplus tablet,"risperidone 3mg,trihexyphenidyl/benzhexol 2mg",strip,10 tablets,59.5,1
+risdone plus tablet,risperidone(3.0 mg) + trihexyphenidyl / benzhexol hydrochloride(2.0 mg),STRIP,10 Tablet(s) in Strip,71.0,1
+risdone plus tablet 10s,risperidone-3mg + trihexyphenidyl-2mg,Strip | Tablet,10,85.0,1
+risdone plus tablet 10s,risperidone 3 mg+trihexyphenidyl 2 mg,STRIP,10 Tablet(s) in a Strip,85.0,1
+risdone suspension 60ml,risperidone(1.0 mg),BOTTLE,60ml Oral Liquid in Bottle,130.37,0
+risdone syp 60ml,risperidone 1 mg,Bottle SYRUP,60,148.43,0
+neovec 10mg dry vial of 1 powder for injection,vecuronium(10.0 mg),DRY VIAL,1 Powder For Injection(s) in Dry Vial,109.5,2
+neovec 10mg injection,vecuronium bromide,VIAL,1 VIAL(s),122.75,2
+neovec 20mg injection,vecuronium bromide,INJECTION,20ml Injection,473.0,2
+neovec20mg inj,vecuronium-20mg,Vial | Injection,1,520.0,2
+neovec 4mg ampoule of 1 powder for injection,vecuronium(4.0 mg),AMPOULE,1 Powder For Injection(s) in Ampoule,90.5,2
+neovec 4mg injection,vecuronium 4mg,injection,4,135.0,2
+oflomac 03 ee drops 5ml,ofloxacin(0.3 %) + dexamethasone(0.1 %),BOTTLE,5ml Eye/Ear Drop in Bottle,19.05,0
+oflomac 100mg strip of 10 tablets,ofloxacin(100.0 mg),STRIP,10 Tablet(s) in Strip,50.6,1
+oflomac 100mg tab 1x10,ofloxacin 100 mg,Strip,10,50.6,1
+oflomac 100 tablet,ofloxacin (100mg),strip,10.0 tablets in 1 strip,61.05,1
+oflomac 100 tablet 10s,ofloxacin-100mg,Strip | Tablet,10,61.0,1
+oflomac 200mg infusion,ofloxacin (200mg),bottle,100.0 ml in 1 bottle,137.5,0
+oflomac 200mg strip of 10 tablets,ofloxacin(200.0 mg),STRIP,10 Tablet(s) in Strip,88.5,1
+oflomac 200 tablet,ofloxacin (200mg),strip,10.0 tablets in 1 strip,88.5,1
+oflomac 200 tablet 10s,ofloxacin-200mg,Strip | Tablet,10,88.5,1
+oflomac 300mg strip of 10 tablets,ofloxacin(300.0 mg),STRIP,10 Tablet(s) in Strip,146.3,1
+oflomac 300 tablet,ofloxacin 300mg,strip,300,110.0,1
+oflomac 300 tablet 10s,ofloxacin-300mg,Strip | Tablet,10,146.0,1
+oflomac 400mg strip of 10 tablets,ofloxacin(400.0 mg),STRIP,10 Tablet(s) in Strip,139.7,1
+oflomac 400mg tab 1x10,ofloxacin 400 mg,Strip,10,153.0,1
+oflomac 400 tablet,ofloxacin 400mg,strip,400,127.0,1
+oflomac 400 tablet 10s,ofloxacin-400mg,Strip | Tablet,10,184.5,1
+oflomac 50 oral solution 60 ml,ofloxacin-50mg,Bottle | Oral Solution,60,72.5,0
+oflomac cx 100dt tablet 10s,cefixime-100mg + ofloxacin-100mg,Strip | Tablet,10,70.0,1
+oflomac cx 100mg100mg tablet dt,cefixime (100mg) + ofloxacin (100mg),strip,10.0 tablet dt in 1 strip,77.0,1
+oflomac cx 100mg dt strip of 10 tablets,ofloxacin(100.0 mg) + cefixime(100.0 mg),STRIP,10 Tablet(s) in Strip,88.5,1
+oflomac cx 200 mg200 mg tablet,"cefixime 200mg,ofloxacin 200mg",strip,200,145.0,1
+oflomac cx 200mg strip of 10 tablets,cefixime(200.0 mg) + ofloxacin(200.0 mg),STRIP,10 Tablet(s) in Strip,192.0,1
+oflomac cx bottle of 30ml dry syrup,cefixime + ofloxacin,BOTTLE,30ml Dry Syrup in Bottle,43.6,0
+oflomac cx dry syrup,cefixime (50mg/5ml) + ofloxacin (50mg/5ml),bottle,30.0 ml in 1 bottle,46.0,0
+oflomac dx bottle of 5ml eyeear drops,ofloxacin(0.3 %) + dexamethasone(0.1 %),BOTTLE,5ml Eye/Ear Drop in Bottle,7.51,0
+oflomac dx eyeear drops,ofloxacin (0.3%) + dexamethasone (0.1%),bottle,5.0 ml in 1 packet,7.51,0
+oflomac eyeear drops,ofloxacin-0.3%w/v,Bottle | Eye/Ear Drops,5,19.05,0
+oflomac forte bottle of 30ml oral solution,ofloxacin(100.0 mg/5ml),BOTTLE,30ml Oral Solution in Bottle,71.25,0
+oflomac forte oral solution 30 ml,ofloxacin-100mg,Bottle | Oral Solution,30,71.0,0
+oflomac forte oral solution 60 ml,ofloxacin-100mg,Bottle | Oral Solution,60,156.5,0
+oflomac injection 100ml,ofloxacin(200.0 mg),BOTTLE,100ml Infusion in Bottle,125.4,2
+oflomac iv 100ml,ofloxacin-200mg + sodium chloride-0.9g,Bottle | Infusion,100,137.5,0
+oflomac iv 200mg infusion,ofloxacin (200mg),bottle,200.0 ml in 1 bottle,79.0,0
+oflomac m bottle of 30ml suspension,ofloxacin(50.0 mg/5ml) + metronidazole(100.0 mg/5ml),BOTTLE,30ml Suspension in Bottle,45.68,0
+oflomac m bottle of 60ml suspension,ofloxacin(50.0 mg/5ml) + metronidazole(100.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,62.7,0
+oflomacm forte suspension,ofloxacin (100mg/5ml) + metronidazole (200mg/5ml),bottle,60.0 ml in 1 bottle,88.25,0
+oflomac m forte suspension 30ml,ofloxacin(100.0 mg/5ml) + metronidazole(200.0 mg/5ml),BOTTLE,30ml Suspension in Bottle,46.18,0
+oflomacm forte suspension 60 ml,metronidazole-200mg + ofloxacin-100mg,Bottle | Suspension,60,88.0,0
+oflomac m forte suspension 60ml,ofloxacin(100.0 mg/5ml) + metronidazole(200.0 mg/5ml),BOTTLE,60ml Suspension in Bottle,88.25,0
+oflomac m forte syrup 30 ml,"ofloxacin-100mg,metronidazole",Bottle | Syrup,30,80.0,0
+oflomacm suspension,ofloxacin (50mg/5ml) + metronidazole (100mg/5ml),bottle,60.0 ml in 1 bottle,62.7,0
+oflomacm suspension 30 ml,metronidazole-100mg + ofloxacin-50mg,Bottle | Suspension,30,62.5,0
+oflomacm suspension 60 ml,metronidazole-100mg + ofloxacin-50mg,Bottle | Suspension,60,62.5,0
+oflomacm tablet,ofloxacin (na) + metronidazole (na),strip,10.0 tablets in 1 strip,11.13,1
+oflomac m tablets,ofloxacin(200.0 mg) + metronidazole(600.0 mg),STRIP,10 Tablet(s) in Strip,11.13,1
+oflomac mn suspension 30ml,metronidazole + ofloxacin,BOTTLE,30ml Suspension in Bottle,29.73,0
+oflomac mn suspension 60ml,metronidazole + ofloxacin,BOTTLE,60ml Suspension in Bottle,209.25,0
+oflomac mn syrup,"ofloxacin 50mg/5ml,metronidazole 100mg/5ml",bottle,100 ml,44.41,0
+oflomac mn syrup 60 ml,metronidazole-100mg + ofloxacin-50mg,Bottle | Syrup,60,72.5,0
+oflomac od 100 mg strip of 10 tablets,ofloxacin(100.0 mg),STRIP,10 Tablet(s) in Strip,34.37,1
+oflomac od 100mg tablet,ofloxacin 100mg,strip,100,34.37,1
+oflomac od 400mg tablet,ofloxacin (400mg),strip,5.0 tablets in 1 strip,52.11,1
+oflomac od tablets,ofloxacin(400.0 mg),STRIP,5 Tablet(s) in Strip,52.11,1
+oflomac oz 200 mg500 mg infusion,"ofloxacin 200mg,ornidazole 500mg",bottle,500,136.75,0
+oflomac oz infusion 100ml,ofloxacin(200.0 mg) + ornidazole(500.0 mg),VIAL,100ml Infusion in Vial,136.75,0
+oflomac oz strip of 10 tablets,ofloxacin(200.0 mg) + ornidazole(500.0 mg),STRIP,10 Tablet(s) in Strip,179.3,1
+oflomac oz suspension,"ofloxacin 50mg/5ml,ornidazole 125mg/5ml",bottle,100 ml,45.9,0
+oflomac oz syrup 30ml,ofloxacin + ornidazole,BOTTLE,30ml Suspension in Bottle,45.9,0
+oflomac oz tablet,"ofloxacin 200mg, ornidazole 500mg",strip,10 tablets,179.3,1
+oflomac oz tablet 10s,ofloxacin-200mg + ornidazole-500mg,Strip | Tablet,10,179.0,1
+oflomac solution 30ml,ofloxacin(50.0 mg),BOTTLE,30ml Oral Solution in Bottle,39.6,0
+oflomac solution 60ml,ofloxacin(50.0 mg),BOTTLE,60ml Oral Solution in Bottle,72.6,0
+oflomac suspension 30 ml,ofloxacin-50mg,Bottle | Suspension,30,43.5,0
+oflomac suspension 30ml,ofloxacin 50 mg /5ml,Bottle SUSPENSION,30,39.6,0
+oflomac suspension 60 ml,ofloxacin-50mg,Bottle | Suspension,60,72.5,0
+oflomac tz 100mg tablet,ofloxacin-200mg + tinidazole-600mg,Strip | Tablet,10,115.5,1
+oflomac tz 200 mg600 mg tablet,"ofloxacin 200mg,tinidazole 600mg",strip,600,87.5,1
+oflomac tz 200 mg tablet 10s,ofloxacin-200mg + tinidazole-600mg,Strip | Tablet,10,115.5,1
+oflomac tz 400mg tablet,ofloxacin-200mg + tinidazole-600mg,Strip | Tablet,10,115.5,1
+oflomac tz strip of 10 tablets,tinidazole(600.0 mg) + ofloxacin(200.0 mg),STRIP,10 Tablet(s) in Strip,115.5,1
+gutgain bottle of 5ml suspension pack of 10,bacillus clausii(2.0 b),BOTTLE,5ml Suspension in Bottle,490.0,0
+gutgain oral suspension 5ml each,bacillus clausii (2billion spores),bottle,10.0 oral suspensions in 1 bottle,530.0,0
+gutgain sachet 1gm,saccharomyces boulardii(5.0 billion cfu) + bacillus subtilis(1.0 billion cfu),SACHET,1g Granules in Sachet,54.0,0
+gutgain suspension 10x5 ml,bacillus clausii-2billion spores,Packet | Suspension,10X5,530.0,0
+insupen blue,insulin pen,Box | Injection,1,675.0,2
+insupen gold,insulin pen,Box | Injection,1,675.0,2
+insupen gold ease pen,human insulin(100.0 iu),DEVICE,1 Device(s) in Device,675.0,2
+insupen probasalog refil 100iu 5x3ml initiation kit,insulin glargine-100iu,Box | Injection,1,3325.0,2
+insupen pro plus insugen 3070 refil box of 1 injection,human insulin / soluble insulin(100.0 iu/ml),BOX,1 Injection(s) in Box,1450.0,2
+insupen pro plus insugen 3070 refil initiation kit 5 x 3 ml,insulin human-100iu,Box | Injection,5 x 3,1299.0,2
+zocon 005 gel 15gm,fluconazole-0.5% w/w,Tube | Gel,15,50.0,3
+zocon 03 eye drops 5ml,fluconazole(0.3 %w/v),BOTTLE,5ml Eye Drop in Bottle,76.45,3
+zocon 05 transgel,fluconazole(0.5 %),TUBE,15g Gel in Tube,51.44,3
+zocon 1 bottle of 75gm dusting powder,clotrimazole(1.0 %),BOTTLE,75g Dusting Powder in Bottle,99.0,3
+zocon 1 dusting powder 100gm,clotrimazole(1.0 %),BOTTLE,100g Dusting Powder in Bottle,130.65,3
+zocon 1 dusting powder 50gm,clotrimazole(1.0 %),BOTTLE,50g Dusting Powder in Bottle,99.0,3
+zocon 1ww soap 100gm,clotrimazole-1%w/w,Pack | Soap,100,133.0,3
+zocon 100dt tab 1x4,fluconazole 100 mg,Strip,4,34.13,3
+zocon 100 dt tablet,fluconazole 100mg,strip,100,34.95,3
+zocon 150mg strip of 10 tablets,fluconazole(150.0 mg),STRIP,10 Tablet(s) in Strip,23.5,3
+zocon 150mg strip of 2 tablets,fluconazole(150.0 mg),STRIP,2 Tablet(s) in Strip,24.04,3
+zocon 150mg strip of 3 tablets,fluconazole(150.0 mg),STRIP,3 Tablet(s) in Strip,44.0,3
+zocon 150mg strip of 6 tablets,fluconazole(150.0 mg),STRIP,6 Tablet(s) in Strip,81.04,3
+zocon 150mg tablet 2s,fluconazole-150mg,Strip | Tablet,2,25.5,3
+zocon 150mg tablet 3s,fluconazole 150 mg,STRIP,3 Tablet(s) in a Strip,36.15,3
+zocon 150 tablet,fluconazole 150mg,strip,150,81.04,3
+zocon 150 tablet 1s,fluconazole-150mg,Strip | Tablet,1,14.5,3
+zocon150 tablet 3s,fluconazole-150mg,Strip | Tablet,3,44.0,3
+zocon 150 tablet 6s,fluconazole-150mg,Strip | Tablet,6,81.0,3
+zocon 150 tablet 6s,fluconazole 150 mg,STRIP,6 Tablet(s) in a Strip,72.31,3
+zocon 2 ww dusting powder 75gm,fluconazole(2.0 %),BOTTLE,75g Oral Powder in Bottle,99.0,3
+zocon 200mg strip of 2 tablets,fluconazole(200.0 mg),STRIP,2 Tablet(s) in Strip,39.08,3
+zocon 200mg tab 1x2,fluconazole 200 mg,Strip,2,39.08,3
+zocon 200mg tablet 2s,fluconazole 200 mg,STRIP,2 Tablet(s) in a Strip,34.88,3
+zocon 200 tablet,fluconazole (200mg),strip,4.0 tablets in 1 strip,78.22,3
+zocon200 tablet 2s,fluconazole-200mg,Strip | Tablet,2,39.0,3
+zocon200 tablet 4s,fluconazole-200mg,Strip | Tablet,4,78.0,3
+zocon 400mg strip of 1 tablet,fluconazole(400.0 mg),STRIP,1 Tablet(s) in Strip,33.3,3
+zocon 400mg tab 1x1,fluconazole 400 mg,Strip,1,33.3,3
+zocon 400mg tablet,fluconazole 400 mg,STRIP,1 Tablet(s) in a Strip,33.3,3
+zocon 400 tablet,fluconazole (400mg),strip,1.0 Tablet in 1 strip,33.3,3
+zocon 400 tablet 1s,fluconazole-400mg,Strip | Tablet,1,33.0,3
+zocon 50 dt tab 1x4,fluconazole 50 mg,Strip,4,43.36,3
+zocon 50 dt tablet,fluconazole (50mg),strip,4.0 tablet dt in 1 strip,43.36,3
+zocon50 dt tablet 4s,fluconazole-50mg,Strip | Tablet,4,43.0,3
+zocon as kit tab 1x1,azithromycin 1 gm + fluconazole 150 mg + secnidazole 1 gm,Strip TABLET,1,138.5,3
+zocon as kit tablets,azithromycin(1.0 gm) + fluconazole(150.0 mg) + secnidazole(2.0 gm),STRIP,4 Tablet Combikit(s) in Strip,136.94,3
+zocon as tablet,fluconazole (150mg) + azithromycin (1000mg) + secnidazole (1000mg),strip,4.0 tablets in 1 strip,138.5,3
+zocon c 1 cream,clotrimazole(1.0 %w/w),TUBE,15g Cream in Tube,50.4,3
+zocon c cream,clotrimazole 1% w/w,tube,30 gm,47.8,3
+zocon c cream 15gm,clotrimazole 1 %,TUBE,15GM,50.4,3
+zocon c cream 15 gm,clotrimazole-1%w/w,Tube | Cream,15,50.0,3
+zocon drops 5ml,fluconazole-0.3% w/v,Bottle | Eye Drops,5,76.0,3
+zocon dt 100mg strip of 4 tablets,fluconazole(100.0 mg),STRIP,4 Tablet(s) in Strip,34.13,3
+zocon dt 100mg tablet 4s,fluconazole 100 mg,STRIP,4 Tablet(s) in a Strip,30.46,3
+zocon dt 100 tablet 4s,fluconazole-100mg,Strip | Tablet,4,34.0,3
+zocon dt 50mg strip of 4 tablets,fluconazole(50.0 mg),STRIP,4 Tablet(s) in Strip,43.36,3
+zocon dt 50mg tablet 4s,fluconazole 50 mg,STRIP,4 Tablet(s) in a Strip,43.36,3
+zocon dusting powder 100gm,clotrimazole 1 %,SACHET,100GM,130.65,3
+zocon dusting powder 100 gm  clotrimazole  anti fungal  anti bacterial powder  treats fungal infection rashes  soothes skin irritation  chafing,clotrimazole-1%w/w,Bottle | Dusting Powder,100,130.5,3
+zocon dusting powder 75gm,clotrimazole 1 %,SACHET,75GM,99.0,3
+zocon dusting powder 75 gm,fluconazole-2%w/w,Bottle | Dusting Powder,75,130.5,3
+zocon eye drops 5ml,fluconazole 0.3 %,DROPS,5ML,76.45,3
+zocon eye drops 5ml,fluconazole 0.3 %w/v,Bottle,5,76.45,3
+zocon inf 200mg infusion,fluconazole (200mg),bottle,100.0 ml in 1 bottle,70.78,3
+zocon infusion,fluconazole(200.0 mg),INJECTION,100ml Infusion in Injection,70.78,3
+zocon kz shampoo 5 ml,ketoconazole-2%w/v + zinc pyrithione-1%w/v,Tube | Shampoo,5,26.0,3
+zocon kz shampoo 5ml,ketoconazole 2 %+zinc pyrithione 1 %,Bottle,5ML,23.9,3
+zocon kz shampoo 5ml,pyrithione zinc(1.0 %) + ketoconazole(2.0 %),BOTTLE,5ml Shampoo in Bottle,26.29,3
+zocon kz shampoo 60 ml,ketoconazole-2%w/v + zinc pyrithione-1%w/v,Bottle | Shampoo,60,279.0,3
+zocon kz shampoo 60ml,pyrithione zinc(1.0 %) + ketoconazole(2.0 %),BOTTLE,60ml Shampoo in Bottle,279.4,3
+zocon kz shampoo 60ml,ketoconazole 2 %+zinc pyrithione 1 %,CONTAINER,60ML,279.4,3
+zocon l 1 cream 10 gm,luliconazole-1%w/w,Tube | Cream,10,108.5,3
+zocon l 1 tube of 10gm cream,luliconazole(1.0 %w/w),TUBE,10g Cream in Tube,108.9,3
+zocon l 1 tube of 20gm cream,luliconazole(1.0 %w/w),TUBE,20g Cream in Tube,250.0,3
+zocon l 1 tube of 30gm cream,luliconazole(1.0 %w/w),TUBE,30g Cream in Tube,330.0,3
+zocon l 1ww cream 20gm,luliconazole-1% w/w,Tube | Cream,20,108.5,3
+zocon l cream,luliconazole (1% w/w),tube,30.0 gm in 1 tube,330.0,3
+zocon l cream 10gm,luliconazole 1 %,TUBE,10GM,108.9,3
+zocon l cream 30gm,luliconazole 1 %,TUBE,7 Tablet(s) in a Strip,300.0,3
+zocon l cream 30 gm,luliconazole-1%w/w,Tube | Cream,30,300.0,3
+zocon l cream 60 gm,luliconazole-1%w/w,Tube | Cream,60,400.0,3
+zocon l cream 60gm,luliconazole 1 %,TUBE,60GM,400.0,3
+zocon lotion 30ml,fluconazole(2.0 %) + pyrithione zinc(1.0 %),BOTTLE,30ml Lotion in Bottle,134.26,3
+zocon lotion 60ml,fluconazole-2%w/v,Bottle | Lotion,60,231.0,3
+zocon lotion 60ml,fluconazole(2.0 %) + pyrithione zinc(1.0 %),BOTTLE,60ml Lotion in Bottle,187.5,3
+zocon lotion sachet 5ml,fluconazole(2.0 %),BOTTLE,5ml Lotion in Bottle,18.0,3
+zocon soap 100gm,clotrimazole 1 %,PACK,100GM,133.0,3
+zoconst 150mg tablet,fluconazole 150mg,strip,150,30.0,3
+zocon st tablets,fluconazole(150.0 mg),STRIP,2 Tablet(s) in Strip,29.76,3
+zocon t 150 tablet 3s,fluconazole 150 mg+tinidazole 1000 mg,STRIP,3 Tablet(s) in a Strip,75.35,3
+zocon t kit 1s,fluconazole 150 mg+tinidazole 1000 mg,PACKET,1s,75.35,3
+zocon t kit tab 1x1,fluconazole 150 mg+tinidazole 1000 mg,Strip,1,75.35,3
+zocon t kit tablet 1s,fluconazole-150mg + tinidazole-1000mg,Strip | Tablet,1,75.0,3
+zocon t strip of 3 tablet combikit,fluconazole(150.0 mg) + tinidazole(1000.0 mg),STRIP,3 Tablet Combikit(s) in Strip,82.85,3
+picon 1 cream 10gm,pimecrolimus(1.0 %),TUBE,10g Cream in Tube,604.19,3
+picon 1 cream 30gm,pimecrolimus,TUBE,1 TUBE OF 30GM,1601.0,3
+picon 1 lotion,pimecrolimus(1.0 %),BOTTLE,20ml Lotion in Bottle,839.41,3
+picon 30 1 tube of 30gm cream,pimecrolimus(1.0 %),TUBE,30g Cream in Tube,1326.04,3
+picon cream,pimecrolimus 1% w/w,tube,30 gm,641.0,3
+picon cream 10 gm,pimecrolimus-1%w/w,Tube | Cream,10,641.0,3
+picon cream 30 gm,pimecrolimus-1%w/w,Tube | Cream,30,1601.0,3
+picon lotion,pimecrolimus-1% w/v,Bottle | Liquid,1,839.4,3
+piconax 5mg syrup sugar free,sodium picosulfate-5mg/5ml,Bottle | Syrup,100,71.45,0
+piconex syrup 100 ml,sodium picosulfate(5.0 mg),BOTTLE,100ml Syrup in Bottle,75.0,0
+piconine 5mg oral suspension,sodium picosulfate (5mg/5ml),bottle,100.0 ml in 1 bottle,69.0,0
+piconistlm sugar free laxative suspension 170 ml,liquid paraffin-1.25ml + magnesium hydroxide-3.75ml + sodium picosulfate-3.33mg,Bottle | Oral Suspension,170,245.0,0
+ibuprofenalk 250mg strip of 250 tablets,ibuprofen(250.0 mg),STRIP,250 Tablet(s) in Strip,88.0,1
+ibuprofencip syrup 60 ml,ibuprofen(100.0 mg),BOTTLE,60ml Syrup in Bottle,15.62,0
+cetrizine 1 mg syrup 30 ml,cetirizine(1.0 mg),BOTTLE,30ml Syrup in Bottle,17.95,0
+cetrizine 10mg knoll strip of 10 tablets,cetirizine(10.0 mg),STRIP,10 Tablet(s) in Strip,21.0,1
+cetrizine 10mg strip of 10 tablets,cetirizine hydrochloride(10.0 mg),STRIP,10 Tablet(s) in Strip,19.17,1
+cetrizine 10mg tablet,cetirizine(10.0 mg),STRIP,10 Tablet(s) in Strip,20.53,1
+cetrizine 10 mg tablet 10s,cetirizine-10mg,Strip | Tablet,10,21.0,1
+cetrizine 5mg syrup,cetirizine (5mg),bottle,60.0 ml in 1 bottle,62.0,0
+cetrizine 5 mg syrup 60 ml,cetirizine-5mg,Bottle | Syrup,60,44.0,0
+cetrizine bottle of 30ml syrup,cetirizine hydrochloride(5.0 mg/5ml),BOTTLE,30ml Syrup in Bottle,21.4,0
+cetrizine bottle of 60ml syrup,cetirizine hydrochloride(5.0 mg/5ml),BOTTLE,60ml Syrup in Bottle,42.6,0
+cetrizine cold ds syrup,cetirizine (2.5mg/5ml) + paracetamol (250mg/5ml) + phenylephrine (2.5mg/5ml),bottle,60.0 ml in 1 bottle,90.0,0
+cetrizine cold oral suspension,cetirizine-2.5mg + paracetamol-125mg + phenylephrine-2.5mg,Bottle | Suspension,60,69.0,0
+cetrizinecold suspension 60 ml,cetirizine-2.5mg + paracetamol-125mg + phenylephrine-2.5mg,Bottle | Oral Suspension,60,56.0,0
+cetrizine cold suspension 60ml,phenylephrine(2.5 mg) + cetirizine(2.5 mg) + paracetamol / acetaminophen(125.0 mg),BOTTLE,60ml Suspension in Bottle,75.0,0
+cetrizine syrup,cetirizine (5mg),bottle,30.0 ml in 1 bottle,22.0,0
+cetrizine syrup 30 ml,cetirizine-5mg,Bottle | Syrup,30,22.0,0
+cetrizine syrup 60 ml,cetirizine-5mg,Bottle | Syrup,60,44.0,0
+cetrizine tablet,cetirizine 10mg,strip,10 tablets,20.33,1
+aspirin 300mg tablet,aspirin (300mg),strip,10.0 tablets in 1 strip,2.0,1
+aspirin 50mg tablet dr,aspirin/acetylsalicylic acid 50mg,strip,50,3.7,1
+aspirin dr 50mg tablet,aspirin / acetyl salicylic acid(50.0 mg),STRIP,14 Tablet(s) in Strip,3.7,1
+aspirin gastro resistance tablet 14s,aspirin / acetyl salicylic acid(75.0 mg),STRIP,14 Tablet(s) in Strip,101.04,1
+aspirin protect 100mg strip of 10 tablets,aspirin / acetyl salicylic acid(100.0 mg),STRIP,10 Tablet(s) in Strip,143.3909250764526,1
+paracetamol 120mg oral suspension,paracetamol (120mg),bottle,60.0 ml in 1 bottle,143.3909250764526,0
+paracetamol 500 mg tablet 1000s,paracetamol-500mg,Bottle | Tablet,1000,604.6,4
+paracetamol o tablet,paracetamol/acetaminophen na,strip,10 tablets,106.43,4
+paracetamol tablet,paracetamol/acetaminophen 500mg,strip,10 tablets,14.69,4
+ciprofloxacin 10mg infusion,ciprofloxacin (10mg),bottle,100.0 ml in 1 bottle,13.42,0
+ciprofloxacin 500 mg tablet 10s,ciprofloxacin-500mg,Strip | Tablet,10,52.5,1
+ciprofloxacin claris 200 mg infusion 100 ml,ciprofloxacin(200.0 mg),PACKET,100ml Injection in Packet,18.83,0
+ciprofloxacin infusion 100 ml,ciprofloxacin-200mg,Vial | Infusion,100,22.0,2
+ciprofloxacin injection 100ml,ciprofloxacin-200mg,Vial | Injection,100,729.0,2
+ciprofloxacin iv core 100 ml,ciprofloxacin-100ml,Bottle | Infusion,100,18.5,0
+ciprofloxacin iv injection 100 ml,ciprofloxacin-100ml,Bottle | Injection,100,19.28,2
+ciprofloxacin r infusion 100 ml,ciprofloxacin,VIAL,100ml Infusion in Vial,16.12,2
+ciprofloxacin usp 200mg infusion,ciprofloxacin (200mg),bottle,100.0 ml in 1 bottle,11.67,0
+ciprofloxacin zydus 500 mg strip of 10 tablets,ciprofloxacin(500.0 mg),STRIP,10 Tablet(s) in Strip,40.9,1
+metformin sr 1 gm tablet 10s,metformin-1000mg,Strip | Tablet,10,45.0,1
+metformin sr 500 tablet 10s,metformin-500mg,Strip | Tablet,10,22.0,1
+glimepiride 1 mg tablet 10 medlife pure generics,glimepiride(1.0 mg),STRIP,10 Tablet(s) in Strip,36.0,1
+glimepiride 2 mg tablet 10 medlife pure generics,glimepiride(2.0 mg),STRIP,10 Tablet(s) in Strip,54.0,1
+amlodipine 5mg plus atenolol 50mg strip of 10 tablets medlife pure generics,amlodipine(5.0 mg) + atenolol(50.0 mg),STRIP,10 Tablet(s) in Strip,60.0,1
+amlodipine 5mg strip of 10 tablets medlife pure generics,amlodipine(5.0 mg),STRIP,10 Tablet(s) in Strip,25.0,1
+amlodipine 5 mg tablet 10s,amlodipine-5mg,Strip | Tablet,10,7.0,1
+betamethasone 05mg tablet,betamethasone (0.5mg),strip,20.0 tablets in 1 strip,5.0,1
+betamethasone injection 1 ml,betamethasone-4mg,Vial | Injection,1,4.0,2
+hydrocortisone sodium 100mg injection,hydrocortisone 100mg,injection,100,63.0,2
+ranitidine 150mg tab 1x10,ranitidine 150 mg,Strip TABLET,10,20.0,1
+ranitidine 150 mg tablet 10s,ranitidine-150mg,Strip | Tablet,10,20.0,1
+ranitidine 150 tablet 20s,ranitidine-150mg,Strip | Tablet,20,40.0,1
+ranitidine 50mg injection,ranitidine 50mg,injection,50,27.0,2
+ranitidine injection 2 ml,ranitidine-50mg,Vial | Injection,2,5.0,2
+ranitidine jagsonpal 20 mg injection 1,ranitidine(20.0 mg),INJECTION,15 Injection(s) in Injection,3.48,2
+omeprazole 20 mg capsule 10 medlife pure generics,omeprazole(20.0 mg),STRIP,10 Capsule(s) in Strip,25.75,1
+azithromycin 100mg syrup,azithromycin (100mg),bottle,15.0 ml in 1 bottle,39.33,0
+cetirizine 10mg strip of 10 tablets,cetirizine(10.0 mg),STRIP,10 Tablet(s) in Strip,21.06,1
+cetirizine 10mg tablet,cetirizine 10mg,strip,10,31.5,1
+cetirizine 10 mg tablet 10,cetirizine(10.0 mg),STRIP,10 Tablet(s) in Strip,21.06,1
+cetirizine hydrochloride 10 mg tablet 10s,cetirizine-10mg,Strip | Tablet,10,21.0,1
+cetirizine syrup 30ml,cetirizine,BOTTLE,30ml Syrup in Bottle,19.36,0
+cetirizine tablet,cetirizine (10mg),strip,10.0 tablets in 1 strip,21.0,1
+cetirizine tablet 15s,cetirizine-10mg,Strip | Tablet,15,31.5,1
